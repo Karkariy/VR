@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: c93c80c3e4ffa51418f26bc7a55ef34d
+timeCreated: 1475424747
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: Acier poli
+    100004: "Agave - 0.45 m\xE8tres"
+    100006: "Alo\xE8s d'Am\xE9rique - 0.56 m\xE8tres"
+    100008: Bamboo Hojas
+    100010: Bamboo Hojas_MeshPart0
+    100012: Bamboo Hojas_MeshPart1
+    100014: Bamboo Hojas_MeshPart2
+    100016: Bamboo Hojas_MeshPart3
+    100018: Bamboo Hojas_MeshPart4
+    100020: Bamboo Hojas_MeshPart5
+    100022: Bamboo Hojas_MeshPart6
+    100024: Bamboo Hojas_MeshPart7
+    100026: Bamboo Hojas_MeshPart8
+    100028: Bamboo Hojas_MeshPart9
+    100030: Bamboo Tronco
+    100032: "Bardage Ext\xE9rieur"
+    100034: Bois - Bouleau
+    100036: Bois - Cadre de porte
+    100038: Bois - Cerisier
+    100040: Bois - Exotique
+    100042: "Bois - M\xE9lamin\xE9 blanc"
+    100044: Bois - Noyer naturel
+    100046: Bois - Panneau de porte
+    100048: "Bois - Sol Ext\xE9rieur"
+    100050: "Bois Clair Int\xE9rieur"
+    100052: Brique, commune
+    100054: "Cr\xE9pis"
+    100056: cube_0
+    100058: cube_0 1
+    100060: cube_0 2
+    100062: cube_0 3
+    100064: cube_0 4
+    100066: cube_0 5
+    100068: cube_0 6
+    100070: cube_0 7
+    100072: cube_0 8
+    100074: cube_1
+    100076: cube_1 1
+    100078: cube_1 2
+    100080: cube_1 3
+    100082: cube_1 4
+    100084: cube_1 5
+    100086: cube_10
+    100088: cube_11
+    100090: cube_2
+    100092: cube_2 1
+    100094: cube_3
+    100096: cube_3 1
+    100098: cube_4
+    100100: cube_4 1
+    100102: cube_5
+    100104: cube_5 1
+    100106: cube_6
+    100108: cube_7
+    100110: cube_8
+    100112: cube_9
+    100114: Cuir - Beige
+    100116: "Fen\xEAtre - Appui"
+    100118: "Fen\xEAtre - Cadre"
+    100120: "Fen\xEAtre - Poign\xE9e"
+    100122: "Fen\xEAtre - Vitrage"
+    100124: "Fen\xEAtre - Vitrage opaque"
+    100126: "Finition Peinture - Blanc satin\xE9"
+    100128: "Foug\xE8re japonaise - 0.8 m\xE8tres"
+    100130: "Gen\xE9vrier de Chine - 2.14 m\xE8tres"
+    100132: Gravier
+    100134: "Hibiscus - 1.5 m\xE8tres"
+    100136: "Ma\xE7onnerie - B\xE9ton"
+    100138: "Mur par d\xE9faut"
+    100140: "M\xE9lamine - H\xEAtre"
+    100142: "M\xE9tal - Acier inoxydable, poli"
+    100144: "M\xE9tal - Acier, Poli"
+    100146: "M\xE9tal - Alu bross\xE9"
+    100148: "M\xE9tal - Chrome"
+    100150: "M\xE9tal - Chrome poli"
+    100152: "Oiseau de paradis - 0.9 m\xE8tres"
+    100154: "Palmier de Chine - 2.4 m\xE8tres"
+    100156: Peinture - Ivoire
+    100158: Plastique - Noir
+    100160: Plastique, blanc opaque
+    100162: Porcelaine - Blanche
+    100164: Porcelaine - Lin
+    100166: Porte - Cadre
+    100168: Porte - Panneau
+    100170: "Porte - Poign\xE9e"
+    100172: //RootNode
+    100174: Terre
+    100176: Textile - Blanc
+    100178: Toit Jia
+    100180: Vegetation
+    100182: "Ventre de Bouddha - 1.5 m\xE8tres"
+    100184: Verre
+    100186: Verre - Opaque Blanc
+    100188: Vert - Gris moyen
+    100190: "Yucca - 0.6 m\xE8tres"
+    400000: ' 1'
+    400002: Acier poli
+    400004: "Agave - 0.45 m\xE8tres"
+    400006: "Alo\xE8s d'Am\xE9rique - 0.56 m\xE8tres"
+    400008: Bamboo Hojas
+    400010: Bamboo Hojas_MeshPart0
+    400012: Bamboo Hojas_MeshPart1
+    400014: Bamboo Hojas_MeshPart2
+    400016: Bamboo Hojas_MeshPart3
+    400018: Bamboo Hojas_MeshPart4
+    400020: Bamboo Hojas_MeshPart5
+    400022: Bamboo Hojas_MeshPart6
+    400024: Bamboo Hojas_MeshPart7
+    400026: Bamboo Hojas_MeshPart8
+    400028: Bamboo Hojas_MeshPart9
+    400030: Bamboo Tronco
+    400032: "Bardage Ext\xE9rieur"
+    400034: Bois - Bouleau
+    400036: Bois - Cadre de porte
+    400038: Bois - Cerisier
+    400040: Bois - Exotique
+    400042: "Bois - M\xE9lamin\xE9 blanc"
+    400044: Bois - Noyer naturel
+    400046: Bois - Panneau de porte
+    400048: "Bois - Sol Ext\xE9rieur"
+    400050: "Bois Clair Int\xE9rieur"
+    400052: Brique, commune
+    400054: "Cr\xE9pis"
+    400056: cube_0
+    400058: cube_0 1
+    400060: cube_0 2
+    400062: cube_0 3
+    400064: cube_0 4
+    400066: cube_0 5
+    400068: cube_0 6
+    400070: cube_0 7
+    400072: cube_0 8
+    400074: cube_1
+    400076: cube_1 1
+    400078: cube_1 2
+    400080: cube_1 3
+    400082: cube_1 4
+    400084: cube_1 5
+    400086: cube_10
+    400088: cube_11
+    400090: cube_2
+    400092: cube_2 1
+    400094: cube_3
+    400096: cube_3 1
+    400098: cube_4
+    400100: cube_4 1
+    400102: cube_5
+    400104: cube_5 1
+    400106: cube_6
+    400108: cube_7
+    400110: cube_8
+    400112: cube_9
+    400114: Cuir - Beige
+    400116: "Fen\xEAtre - Appui"
+    400118: "Fen\xEAtre - Cadre"
+    400120: "Fen\xEAtre - Poign\xE9e"
+    400122: "Fen\xEAtre - Vitrage"
+    400124: "Fen\xEAtre - Vitrage opaque"
+    400126: "Finition Peinture - Blanc satin\xE9"
+    400128: "Foug\xE8re japonaise - 0.8 m\xE8tres"
+    400130: "Gen\xE9vrier de Chine - 2.14 m\xE8tres"
+    400132: Gravier
+    400134: "Hibiscus - 1.5 m\xE8tres"
+    400136: "Ma\xE7onnerie - B\xE9ton"
+    400138: "Mur par d\xE9faut"
+    400140: "M\xE9lamine - H\xEAtre"
+    400142: "M\xE9tal - Acier inoxydable, poli"
+    400144: "M\xE9tal - Acier, Poli"
+    400146: "M\xE9tal - Alu bross\xE9"
+    400148: "M\xE9tal - Chrome"
+    400150: "M\xE9tal - Chrome poli"
+    400152: "Oiseau de paradis - 0.9 m\xE8tres"
+    400154: "Palmier de Chine - 2.4 m\xE8tres"
+    400156: Peinture - Ivoire
+    400158: Plastique - Noir
+    400160: Plastique, blanc opaque
+    400162: Porcelaine - Blanche
+    400164: Porcelaine - Lin
+    400166: Porte - Cadre
+    400168: Porte - Panneau
+    400170: "Porte - Poign\xE9e"
+    400172: //RootNode
+    400174: Terre
+    400176: Textile - Blanc
+    400178: Toit Jia
+    400180: Vegetation
+    400182: "Ventre de Bouddha - 1.5 m\xE8tres"
+    400184: Verre
+    400186: Verre - Opaque Blanc
+    400188: Vert - Gris moyen
+    400190: "Yucca - 0.6 m\xE8tres"
+    2300000: ' 1'
+    2300002: Acier poli
+    2300004: Bamboo Hojas_MeshPart0
+    2300006: Bamboo Hojas_MeshPart1
+    2300008: Bamboo Hojas_MeshPart2
+    2300010: Bamboo Hojas_MeshPart3
+    2300012: Bamboo Hojas_MeshPart4
+    2300014: Bamboo Hojas_MeshPart5
+    2300016: Bamboo Hojas_MeshPart6
+    2300018: Bamboo Hojas_MeshPart7
+    2300020: Bamboo Hojas_MeshPart8
+    2300022: Bamboo Hojas_MeshPart9
+    2300024: Bamboo Tronco
+    2300026: "Bardage Ext\xE9rieur"
+    2300028: Bois - Bouleau
+    2300030: Bois - Cadre de porte
+    2300032: Bois - Cerisier
+    2300034: Bois - Exotique
+    2300036: "Bois - M\xE9lamin\xE9 blanc"
+    2300038: Bois - Noyer naturel
+    2300040: Bois - Panneau de porte
+    2300042: "Bois - Sol Ext\xE9rieur"
+    2300044: "Bois Clair Int\xE9rieur"
+    2300046: Brique, commune
+    2300048: "Cr\xE9pis"
+    2300050: cube_0
+    2300052: cube_0 1
+    2300054: cube_0 2
+    2300056: cube_0 3
+    2300058: cube_0 4
+    2300060: cube_0 5
+    2300062: cube_0 6
+    2300064: cube_0 7
+    2300066: cube_0 8
+    2300068: cube_1
+    2300070: cube_1 1
+    2300072: cube_1 2
+    2300074: cube_1 3
+    2300076: cube_1 4
+    2300078: cube_1 5
+    2300080: cube_10
+    2300082: cube_11
+    2300084: cube_2
+    2300086: cube_2 1
+    2300088: cube_3
+    2300090: cube_3 1
+    2300092: cube_4
+    2300094: cube_4 1
+    2300096: cube_5
+    2300098: cube_5 1
+    2300100: cube_6
+    2300102: cube_7
+    2300104: cube_8
+    2300106: cube_9
+    2300108: Cuir - Beige
+    2300110: "Fen\xEAtre - Appui"
+    2300112: "Fen\xEAtre - Cadre"
+    2300114: "Fen\xEAtre - Poign\xE9e"
+    2300116: "Fen\xEAtre - Vitrage"
+    2300118: "Fen\xEAtre - Vitrage opaque"
+    2300120: "Finition Peinture - Blanc satin\xE9"
+    2300122: Gravier
+    2300124: "Ma\xE7onnerie - B\xE9ton"
+    2300126: "Mur par d\xE9faut"
+    2300128: "M\xE9lamine - H\xEAtre"
+    2300130: "M\xE9tal - Acier inoxydable, poli"
+    2300132: "M\xE9tal - Acier, Poli"
+    2300134: "M\xE9tal - Alu bross\xE9"
+    2300136: "M\xE9tal - Chrome"
+    2300138: "M\xE9tal - Chrome poli"
+    2300140: Peinture - Ivoire
+    2300142: Plastique - Noir
+    2300144: Plastique, blanc opaque
+    2300146: Porcelaine - Blanche
+    2300148: Porcelaine - Lin
+    2300150: Porte - Cadre
+    2300152: Porte - Panneau
+    2300154: "Porte - Poign\xE9e"
+    2300156: Terre
+    2300158: Textile - Blanc
+    2300160: Toit Jia
+    2300162: Verre
+    2300164: Verre - Opaque Blanc
+    2300166: Vert - Gris moyen
+    3300000: ' 1'
+    3300002: Acier poli
+    3300004: Bamboo Hojas_MeshPart0
+    3300006: Bamboo Hojas_MeshPart1
+    3300008: Bamboo Hojas_MeshPart2
+    3300010: Bamboo Hojas_MeshPart3
+    3300012: Bamboo Hojas_MeshPart4
+    3300014: Bamboo Hojas_MeshPart5
+    3300016: Bamboo Hojas_MeshPart6
+    3300018: Bamboo Hojas_MeshPart7
+    3300020: Bamboo Hojas_MeshPart8
+    3300022: Bamboo Hojas_MeshPart9
+    3300024: Bamboo Tronco
+    3300026: "Bardage Ext\xE9rieur"
+    3300028: Bois - Bouleau
+    3300030: Bois - Cadre de porte
+    3300032: Bois - Cerisier
+    3300034: Bois - Exotique
+    3300036: "Bois - M\xE9lamin\xE9 blanc"
+    3300038: Bois - Noyer naturel
+    3300040: Bois - Panneau de porte
+    3300042: "Bois - Sol Ext\xE9rieur"
+    3300044: "Bois Clair Int\xE9rieur"
+    3300046: Brique, commune
+    3300048: "Cr\xE9pis"
+    3300050: cube_0
+    3300052: cube_0 1
+    3300054: cube_0 2
+    3300056: cube_0 3
+    3300058: cube_0 4
+    3300060: cube_0 5
+    3300062: cube_0 6
+    3300064: cube_0 7
+    3300066: cube_0 8
+    3300068: cube_1
+    3300070: cube_1 1
+    3300072: cube_1 2
+    3300074: cube_1 3
+    3300076: cube_1 4
+    3300078: cube_1 5
+    3300080: cube_10
+    3300082: cube_11
+    3300084: cube_2
+    3300086: cube_2 1
+    3300088: cube_3
+    3300090: cube_3 1
+    3300092: cube_4
+    3300094: cube_4 1
+    3300096: cube_5
+    3300098: cube_5 1
+    3300100: cube_6
+    3300102: cube_7
+    3300104: cube_8
+    3300106: cube_9
+    3300108: Cuir - Beige
+    3300110: "Fen\xEAtre - Appui"
+    3300112: "Fen\xEAtre - Cadre"
+    3300114: "Fen\xEAtre - Poign\xE9e"
+    3300116: "Fen\xEAtre - Vitrage"
+    3300118: "Fen\xEAtre - Vitrage opaque"
+    3300120: "Finition Peinture - Blanc satin\xE9"
+    3300122: Gravier
+    3300124: "Ma\xE7onnerie - B\xE9ton"
+    3300126: "Mur par d\xE9faut"
+    3300128: "M\xE9lamine - H\xEAtre"
+    3300130: "M\xE9tal - Acier inoxydable, poli"
+    3300132: "M\xE9tal - Acier, Poli"
+    3300134: "M\xE9tal - Alu bross\xE9"
+    3300136: "M\xE9tal - Chrome"
+    3300138: "M\xE9tal - Chrome poli"
+    3300140: Peinture - Ivoire
+    3300142: Plastique - Noir
+    3300144: Plastique, blanc opaque
+    3300146: Porcelaine - Blanche
+    3300148: Porcelaine - Lin
+    3300150: Porte - Cadre
+    3300152: Porte - Panneau
+    3300154: "Porte - Poign\xE9e"
+    3300156: Terre
+    3300158: Textile - Blanc
+    3300160: Toit Jia
+    3300162: Verre
+    3300164: Verre - Opaque Blanc
+    3300166: Vert - Gris moyen
+    4300000: cube_0
+    4300002: cube_1
+    4300004: cube_2
+    4300006: cube_3
+    4300008: cube_4
+    4300010: cube_5
+    4300012: cube_6
+    4300014: cube_7
+    4300016: cube_8
+    4300018: cube_9
+    4300020: cube_10
+    4300022: cube_11
+    4300024: cube_0
+    4300026: cube_0
+    4300028: cube_0
+    4300030: cube_1
+    4300032: cube_2
+    4300034: cube_3
+    4300036: cube_4
+    4300038: cube_5
+    4300040: cube_0
+    4300042: cube_0
+    4300044: cube_1
+    4300046: cube_0
+    4300048: cube_1
+    4300050: cube_0
+    4300052: cube_1
+    4300054: cube_0
+    4300056: cube_1
+    4300060: "Finition Peinture - Blanc satin\xE9"
+    4300062: "Bois - M\xE9lamin\xE9 blanc"
+    4300064: Bois - Cadre de porte
+    4300066: "M\xE9tal - Alu bross\xE9"
+    4300068: "Bardage Ext\xE9rieur"
+    4300070: Textile - Blanc
+    4300072: "M\xE9tal - Acier inoxydable, poli"
+    4300074: "Ma\xE7onnerie - B\xE9ton"
+    4300076: Bois - Panneau de porte
+    4300078: Porcelaine - Lin
+    4300080: Acier poli
+    4300082: "M\xE9tal - Chrome poli"
+    4300084: Terre
+    4300086: "M\xE9lamine - H\xEAtre"
+    4300088: Brique, commune
+    4300090: "Porte - Poign\xE9e"
+    4300092: "M\xE9tal - Acier, Poli"
+    4300094: Verre
+    4300096: Bois - Noyer naturel
+    4300098: "Fen\xEAtre - Poign\xE9e"
+    4300100: Cuir - Beige
+    4300102: "Bois - Sol Ext\xE9rieur"
+    4300104: "Fen\xEAtre - Vitrage opaque"
+    4300106: Bois - Cerisier
+    4300108: Porte - Panneau
+    4300110: Bois - Exotique
+    4300112: "Fen\xEAtre - Appui"
+    4300114: "M\xE9tal - Chrome"
+    4300116: "Cr\xE9pis"
+    4300118: Gravier
+    4300120: Bamboo Hojas_MeshPart0
+    4300122: Bamboo Hojas_MeshPart1
+    4300124: Bamboo Hojas_MeshPart2
+    4300126: Bamboo Hojas_MeshPart3
+    4300128: Bamboo Hojas_MeshPart4
+    4300130: Bamboo Hojas_MeshPart5
+    4300132: Bamboo Hojas_MeshPart6
+    4300134: Bamboo Hojas_MeshPart7
+    4300136: Bamboo Hojas_MeshPart8
+    4300138: Bamboo Hojas_MeshPart9
+    4300140: Porte - Cadre
+    4300142: Verre - Opaque Blanc
+    4300144: "Fen\xEAtre - Vitrage"
+    4300146: Vert - Gris moyen
+    4300148: "Mur par d\xE9faut"
+    4300150: Toit Jia
+    4300152: Bamboo Tronco
+    4300154: Bois - Bouleau
+    4300156: Plastique - Noir
+    4300158: "Fen\xEAtre - Cadre"
+    4300160: Porcelaine - Blanche
+    4300162: "Bois Clair Int\xE9rieur"
+    4300164: Plastique, blanc opaque
+    4300166: Peinture - Ivoire
+    6400000: ' 1'
+    6400002: Acier poli
+    6400004: Bamboo Hojas_MeshPart0
+    6400006: Bamboo Hojas_MeshPart1
+    6400008: Bamboo Hojas_MeshPart2
+    6400010: Bamboo Hojas_MeshPart3
+    6400012: Bamboo Hojas_MeshPart4
+    6400014: Bamboo Hojas_MeshPart5
+    6400016: Bamboo Hojas_MeshPart6
+    6400018: Bamboo Hojas_MeshPart7
+    6400020: Bamboo Hojas_MeshPart8
+    6400022: Bamboo Hojas_MeshPart9
+    6400024: Bamboo Tronco
+    6400026: "Bardage Ext\xE9rieur"
+    6400028: Bois - Bouleau
+    6400030: Bois - Cadre de porte
+    6400032: Bois - Cerisier
+    6400034: Bois - Exotique
+    6400036: "Bois - M\xE9lamin\xE9 blanc"
+    6400038: Bois - Noyer naturel
+    6400040: Bois - Panneau de porte
+    6400042: "Bois - Sol Ext\xE9rieur"
+    6400044: "Bois Clair Int\xE9rieur"
+    6400046: Brique, commune
+    6400048: "Cr\xE9pis"
+    6400050: cube_0
+    6400052: cube_0 1
+    6400054: cube_0 2
+    6400056: cube_0 3
+    6400058: cube_0 4
+    6400060: cube_0 5
+    6400062: cube_0 6
+    6400064: cube_0 7
+    6400066: cube_0 8
+    6400068: cube_1
+    6400070: cube_1 1
+    6400072: cube_1 2
+    6400074: cube_1 3
+    6400076: cube_1 4
+    6400078: cube_1 5
+    6400080: cube_10
+    6400082: cube_11
+    6400084: cube_2
+    6400086: cube_2 1
+    6400088: cube_3
+    6400090: cube_3 1
+    6400092: cube_4
+    6400094: cube_4 1
+    6400096: cube_5
+    6400098: cube_5 1
+    6400100: cube_6
+    6400102: cube_7
+    6400104: cube_8
+    6400106: cube_9
+    6400108: Cuir - Beige
+    6400110: "Fen\xEAtre - Appui"
+    6400112: "Fen\xEAtre - Cadre"
+    6400114: "Fen\xEAtre - Poign\xE9e"
+    6400116: "Fen\xEAtre - Vitrage"
+    6400118: "Fen\xEAtre - Vitrage opaque"
+    6400120: "Finition Peinture - Blanc satin\xE9"
+    6400122: Gravier
+    6400124: "Ma\xE7onnerie - B\xE9ton"
+    6400126: "Mur par d\xE9faut"
+    6400128: "M\xE9lamine - H\xEAtre"
+    6400130: "M\xE9tal - Acier inoxydable, poli"
+    6400132: "M\xE9tal - Acier, Poli"
+    6400134: "M\xE9tal - Alu bross\xE9"
+    6400136: "M\xE9tal - Chrome"
+    6400138: "M\xE9tal - Chrome poli"
+    6400140: Peinture - Ivoire
+    6400142: Plastique - Noir
+    6400144: Plastique, blanc opaque
+    6400146: Porcelaine - Blanche
+    6400148: Porcelaine - Lin
+    6400150: Porte - Cadre
+    6400152: Porte - Panneau
+    6400154: "Porte - Poign\xE9e"
+    6400156: Terre
+    6400158: Textile - Blanc
+    6400160: Toit Jia
+    6400162: Verre
+    6400164: Verre - Opaque Blanc
+    6400166: Vert - Gris moyen
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
