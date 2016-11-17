@@ -45,7 +45,7 @@ public class PlayerController : NetworkBehaviour
 			
 		switch (Cursor.lockState)
 		{
-			case CursorLockMode.None:
+			case CursorLockMode.None:Matrix4x4:
 				GUILayout.Label ("Cursor is normal");
 				if (GUILayout.Button ("Lock cursor"))
 					wantedMode = CursorLockMode.Locked;
