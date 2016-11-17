@@ -14,7 +14,6 @@ public class SunBehavior : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        
     }
 
     // Update is called once per frame
@@ -29,11 +28,20 @@ public class SunBehavior : MonoBehaviour {
         Debug.Log("position : " + transform.rotation.eulerAngles);
 
         if (hour > 6 && hour < 17)
-            return transform.rotation.eulerAngles.x + 1.0f;
+        {
+            m_SunLight.intensity = 0.5f;
+            return transform.rotation.eulerAngles.x + 0.002f;
+        }
         else if (hour == 6)
+        {
+            m_SunLight.intensity = 0.1f;
             return 0.0f;
+        }
         else if (hour == 17)
+        {
+            m_SunLight.intensity = 0.1f;
             return 0.0f;
+        }
 
         return 0.0f;
     }
