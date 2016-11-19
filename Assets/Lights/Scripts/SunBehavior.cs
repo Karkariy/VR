@@ -4,9 +4,6 @@ using System;
 
 public class SunBehavior : MonoBehaviour {
 
-    // levée du soleil à Dehzou ~ 7h
-    //0 deg rot X -> 8h
-
     public Light m_sunLight;
     private DateTime m_clock;
     public int m_sunrise;
@@ -38,25 +35,21 @@ public class SunBehavior : MonoBehaviour {
         float intensity = -1.0f;
         if (time.Hour <= (m_sunrise + m_sunset) / 2 && time.Hour >= m_sunrise)
         {
-            intensity = Mathf.Clamp(time.Hour, m_sunrise, ((m_sunrise + m_sunset) / 2));
-            Debug.LogWarning(intensity);
+            intensity = 0.05f * Mathf.Clamp(time.Hour, m_sunrise, ((m_sunrise + m_sunset) / 2));
         }
         else if(time.Hour < m_sunrise || time.Hour> m_sunset)
         {
-            intensity = 5.0f;
-            Debug.Log("Ok");
-
+            intensity = 0.05f * 5.0f;
         }
         else
         {
             float max = 1.0f / ((m_sunrise + m_sunset) / 2.0f);
             float min = 1.0f / m_sunset;
+            intensity = 0.05f * Mathf.Clamp(time.Hour, min * 100, max * 100);
 
-            intensity = Mathf.Clamp(time.Hour, min * 100, max * 100);
-            Debug.Log(intensity);
         }
 
-        m_sunLight.intensity = 0.05f * intensity;
+        m_sunLight.intensity =  intensity;
 
     }
 
