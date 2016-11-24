@@ -12,6 +12,35 @@ public class Teleportation : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
     {
+        if(Input.GetKey(KeyCode.Space))
+        {
+            Ray ray = new Ray(Camera.main.transform.position,Camera.main.transform.forward);
+            RaycastHit hit;
 
+            float rayLenght = 100000;
+            Debug.DrawLine(ray.origin,ray.direction * rayLenght);
+
+            if(Physics.Raycast(ray,out hit,rayLenght))
+            {
+                Vector3 hitPoint = hit.point;
+                Debug.Log(hitPoint);
+
+                NavMeshHit nhit;
+                if(!NavMesh.Raycast(Camera.main.transform.position,hitPoint,out nhit,NavMesh.AllAreas))
+                {
+                    Debug.Log(nhit);
+                    Debug.DrawLine(transform.position,hitPoint,Color.green);
+
+                    transform.position = hitPoint + new Vector3(0,1.8f,0);
+                }
+                //if(hit.collider.GetComponent<Agent>())
+                //{
+                //    if(hit.collider.tag == "PlayerHide")
+                //        print("Hit Player!");
+                //    else
+                //        print("Hit Agent, Try Again");
+                //}
+            }
+        }
     }
 }
