@@ -4,12 +4,29 @@ using UnityEngine.UI;
 
 
 public class SunBehavior : MonoBehaviour {
+    /// <summary>
+    /// 
+    /// </summary>
     private DateTime m_clock;
-
+    /// <summary>
+    /// 
+    /// </summary>
     public Slider m_sliderClock;
+    /// <summary>
+    /// 
+    /// </summary>
     public Text m_clockToString;
+    /// <summary>
+    /// 
+    /// </summary>
     public Light m_sunLight;
+    /// <summary>
+    /// 
+    /// </summary>
     public int m_sunrise;
+    /// <summary>
+    /// 
+    /// </summary>
     public int m_sunset;
 
 
@@ -34,6 +51,9 @@ public class SunBehavior : MonoBehaviour {
     }
 
     // Update is called once per frame
+    /// <summary>
+    /// 
+    /// </summary>
     void Update () {
         m_clock = m_clock.AddSeconds(Time.deltaTime);
 
@@ -45,22 +65,36 @@ public class SunBehavior : MonoBehaviour {
 
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="time"></param>
     private void updateIntensity(DateTime time)
     {
         float intensity = -1.0f;
+        float lightScale = 0.08f;
+        Light [] LightChlidren = GetComponentsInChildren<Light>();
+
         if (time.Hour <= (m_sunrise + m_sunset) / 2 && time.Hour >= m_sunrise)
         {
-            intensity = 0.05f * Mathf.Clamp(time.Hour, m_sunrise, ((m_sunrise + m_sunset) / 2));
+            foreach (Light light in LightChlidren)
+                light.intensity = 0.2f;
+            intensity = lightScale * Mathf.Clamp(time.Hour, m_sunrise, ((m_sunrise + m_sunset) / 2));
         }
         else if(time.Hour < m_sunrise || time.Hour> m_sunset)
         {
-            intensity = 0.05f * 5.0f;
+            foreach (Light light in LightChlidren)
+                light.intensity = 0.1f;
+            intensity = lightScale * 5.0f;
+
         }
         else
         {
+            foreach (Light light in LightChlidren)
+                light.intensity = 0.2f;
             float max = 1.0f / ((m_sunrise + m_sunset) / 2.0f);
             float min = 1.0f / m_sunset;
-            intensity = 0.05f * Mathf.Clamp(time.Hour, min * 100, max * 100);
+            intensity = lightScale * Mathf.Clamp(time.Hour, min * 100, max * 100);
 
         }
 
@@ -69,10 +103,17 @@ public class SunBehavior : MonoBehaviour {
     }
 
 
+    /// <summary>
+    /// 
+    /// </summary>
     protected void updateTime()
     {
+       
         double minutes = ((m_sliderClock.value - Math.Truncate(m_sliderClock.value))*59);
         double secondes = (minutes - Math.Truncate(minutes)) * 59;
+        if (m_sliderClock.value == 24)
+            m_sliderClock.value = 23;
+
         m_clock = new DateTime(m_clock.Year,
                                m_clock.Month,
                                m_clock.Day,
