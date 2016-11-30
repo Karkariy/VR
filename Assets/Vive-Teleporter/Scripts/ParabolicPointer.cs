@@ -4,6 +4,7 @@ using System.Collections.Generic;
 [AddComponentMenu("Vive Teleporter/Parabolic Pointer")]
 public class ParabolicPointer : MonoBehaviour {
 
+
     public ViveNavMesh NavMesh;
     [Header("Parabola Trajectory")]
     [Tooltip("Initial velocity of the parabola, in local space.")]
@@ -101,7 +102,6 @@ public class ParabolicPointer : MonoBehaviour {
             last = next;
         }
 
-
         return false;
     }
 
@@ -172,9 +172,12 @@ public class ParabolicPointer : MonoBehaviour {
         ParabolaMesh.name = "Parabolic Pointer";
         ParabolaMesh.vertices = new Vector3[0];
         ParabolaMesh.triangles = new int[0];
+
     }
 
     private List<Vector3> ParabolaPoints;
+
+
 
     void Update()
     {
@@ -191,6 +194,7 @@ public class ParabolicPointer : MonoBehaviour {
             ParabolaPoints);
 
         SelectedPoint = ParabolaPoints[ParabolaPoints.Count-1];
+
 
         // 2. Render Parabola graphics
         // Make sure that there is actually a point on the navmesh, and that all requisite art is available
@@ -217,6 +221,7 @@ public class ParabolicPointer : MonoBehaviour {
         if (ShouldDrawMarker)
             Graphics.DrawMesh(SelectionPadMesh, Matrix4x4.TRS(SelectedPoint + Vector3.up * 0.005f, Quaternion.identity, Vector3.one * 0.2f), SelectionPadFadeMaterial, gameObject.layer, null, 0);
     }
+
     
     // Used when you can't depend on Update() to automatically update CurrentParabolaAngle
     // (for example, directly after enabling the component)
