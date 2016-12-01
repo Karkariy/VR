@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: b7c785dd5164356489c0fc926f399115
+timeCreated: 1480579344
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0864 x 2134mm
+    100002: 10 mm - Stairs slab
+    100004: 1020x500
+    100006: 1060x600
+    100008: 1150x1150
+    100010: "120-10 \u767E\u53F6"
+    100012: 1200x1500mm
+    100014: 1420x700
+    100016: 180 mm - Mezzanine Slab
+    100018: 1800x300
+    100020: 20"x18"
+    100022: 2000X650
+    100024: 2000X810
+    100026: 2400X1030
+    100028: 2400X730
+    100030: 2500x1200
+    100032: 30" x 30"
+    100034: 3000x680
+    100036: 300mm Foundation Solar
+    100038: 30mm Square
+    100040: 36" x 36"
+    100042: 37"
+    100044: 496 mm - Ground Floor Slab
+    100046: 496 mm - Ground Floor Slab Earth
+    100048: 496 mm - Ground Floor Slab Gravel
+    100050: 496 mm - Ground Floor Slab Tile
+    100052: 50mm x 65mm
+    100054: 60W - 277V
+    100056: Appareils sanitaires
+    100058: bamboo
+    100060: "bamboo door(\u6062\u590D)"
+    100062: Bamboo roof 2
+    100064: Bamboo toit
+    100066: bedroom1
+    100068: bedroom1 1
+    100070: bedroom2
+    100072: bedroom2 1
+    100074: "Cam\xE9ras"
+    100076: Chair
+    100078: Chair-Corbu
+    100080: cupboard
+    100082: cupboard 1
+    100084: dining table
+    100086: dining table 1
+    100088: Door-Curtain-Wall-Double-Storefront
+    100090: Door-Curtain-Wall-Double-Storefront 1
+    100092: Elliptical - 40x30mm
+    100094: "emplacement <Non partag\xE9>"
+    100096: "emplacement <Non partag\xE9> 1"
+    100098: "emplacement <Non partag\xE9> 2"
+    100100: "emplacement <Non partag\xE9> 3"
+    100102: "emplacement <Non partag\xE9> 4"
+    100104: "emplacement <Non partag\xE9> 5"
+    100106: Empty Panel
+    100108: Empty Panel 1
+    100110: Empty Panel 10
+    100112: Empty Panel 11
+    100114: Empty Panel 12
+    100116: Empty Panel 13
+    100118: Empty Panel 14
+    100120: Empty Panel 15
+    100122: Empty Panel 16
+    100124: Empty Panel 17
+    100126: Empty Panel 18
+    100128: Empty Panel 19
+    100130: Empty Panel 2
+    100132: Empty Panel 20
+    100134: Empty Panel 21
+    100136: Empty Panel 22
+    100138: Empty Panel 23
+    100140: Empty Panel 24
+    100142: Empty Panel 25
+    100144: Empty Panel 26
+    100146: Empty Panel 27
+    100148: Empty Panel 28
+    100150: Empty Panel 29
+    100152: Empty Panel 3
+    100154: Empty Panel 30
+    100156: Empty Panel 31
+    100158: Empty Panel 32
+    100160: Empty Panel 33
+    100162: Empty Panel 34
+    100164: Empty Panel 35
+    100166: Empty Panel 36
+    100168: Empty Panel 37
+    100170: Empty Panel 38
+    100172: Empty Panel 39
+    100174: Empty Panel 4
+    100176: Empty Panel 40
+    100178: Empty Panel 41
+    100180: Empty Panel 42
+    100182: Empty Panel 43
+    100184: Empty Panel 44
+    100186: Empty Panel 45
+    100188: Empty Panel 46
+    100190: Empty Panel 47
+    100192: Empty Panel 48
+    100194: Empty Panel 49
+    100196: Empty Panel 5
+    100198: Empty Panel 50
+    100200: Empty Panel 51
+    100202: Empty Panel 52
+    100204: Empty Panel 53
+    100206: Empty Panel 54
+    100208: Empty Panel 55
+    100210: Empty Panel 56
+    100212: Empty Panel 57
+    100214: Empty Panel 58
+    100216: Empty Panel 59
+    100218: Empty Panel 6
+    100220: Empty Panel 60
+    100222: Empty Panel 61
+    100224: Empty Panel 62
+    100226: Empty Panel 63
+    100228: Empty Panel 64
+    100230: Empty Panel 65
+    100232: Empty Panel 66
+    100234: Empty Panel 67
+    100236: Empty Panel 68
+    100238: Empty Panel 69
+    100240: Empty Panel 7
+    100242: Empty Panel 70
+    100244: Empty Panel 71
+    100246: Empty Panel 72
+    100248: Empty Panel 73
+    100250: Empty Panel 74
+    100252: Empty Panel 75
+    100254: Empty Panel 76
+    100256: Empty Panel 77
+    100258: Empty Panel 78
+    100260: Empty Panel 79
+    100262: Empty Panel 8
+    100264: Empty Panel 80
+    100266: Empty Panel 81
+    100268: Empty Panel 82
+    100270: Empty Panel 83
+    100272: Empty Panel 9
+    100274: Escalier
+    100276: Exterior Mullion50mm x 150mm 2
+    100278: "Fen\xEAtres"
+    100280: flower pot
+    100282: Fondations
+    100284: Fondations 1
+    100286: Foundation
+    100288: Foundation 1
+    100290: frame-old-house.dxf
+    100292: Garde-corps
+    100294: Generic - 200mm sd old
+    100296: Generic - 477mm
+    100298: Generic Floor - 150mm platform
+    100300: Generic Roof - 300mm
+    100302: Generic Roof - 475 mm north
+    100304: Glass Panel - Bottom Fill
+    100306: Glazed
+    100308: "Groupes de mod\xE8les"
+    100310: Interior - 180mm
+    100312: Interior - 250mm
+    100314: Interior - 288mm
+    100316: Interior - 79mm Partition (1-hr)
+    100318: Ligne de quadrillage
+    100320: Ligne de quadrillage 1
+    100322: Ligne de quadrillage 10
+    100324: Ligne de quadrillage 11
+    100326: Ligne de quadrillage 12
+    100328: Ligne de quadrillage 13
+    100330: Ligne de quadrillage 14
+    100332: Ligne de quadrillage 15
+    100334: Ligne de quadrillage 16
+    100336: Ligne de quadrillage 17
+    100338: Ligne de quadrillage 18
+    100340: Ligne de quadrillage 19
+    100342: Ligne de quadrillage 2
+    100344: Ligne de quadrillage 20
+    100346: Ligne de quadrillage 21
+    100348: Ligne de quadrillage 22
+    100350: Ligne de quadrillage 23
+    100352: Ligne de quadrillage 24
+    100354: Ligne de quadrillage 25
+    100356: Ligne de quadrillage 26
+    100358: Ligne de quadrillage 27
+    100360: Ligne de quadrillage 28
+    100362: Ligne de quadrillage 29
+    100364: Ligne de quadrillage 3
+    100366: Ligne de quadrillage 30
+    100368: Ligne de quadrillage 31
+    100370: Ligne de quadrillage 32
+    100372: Ligne de quadrillage 33
+    100374: Ligne de quadrillage 34
+    100376: Ligne de quadrillage 35
+    100378: Ligne de quadrillage 36
+    100380: Ligne de quadrillage 37
+    100382: Ligne de quadrillage 38
+    100384: Ligne de quadrillage 39
+    100386: Ligne de quadrillage 4
+    100388: Ligne de quadrillage 40
+    100390: Ligne de quadrillage 41
+    100392: Ligne de quadrillage 42
+    100394: Ligne de quadrillage 43
+    100396: Ligne de quadrillage 44
+    100398: Ligne de quadrillage 45
+    100400: Ligne de quadrillage 46
+    100402: Ligne de quadrillage 47
+    100404: Ligne de quadrillage 48
+    100406: Ligne de quadrillage 49
+    100408: Ligne de quadrillage 5
+    100410: Ligne de quadrillage 50
+    100412: Ligne de quadrillage 51
+    100414: Ligne de quadrillage 52
+    100416: Ligne de quadrillage 53
+    100418: Ligne de quadrillage 54
+    100420: Ligne de quadrillage 55
+    100422: Ligne de quadrillage 56
+    100424: Ligne de quadrillage 57
+    100426: Ligne de quadrillage 58
+    100428: Ligne de quadrillage 59
+    100430: Ligne de quadrillage 6
+    100432: Ligne de quadrillage 60
+    100434: Ligne de quadrillage 61
+    100436: Ligne de quadrillage 62
+    100438: Ligne de quadrillage 63
+    100440: Ligne de quadrillage 64
+    100442: Ligne de quadrillage 65
+    100444: Ligne de quadrillage 7
+    100446: Ligne de quadrillage 8
+    100448: Ligne de quadrillage 9
+    100450: Luminaires
+    100452: M_Fixed
+    100454: M_Single-Flush
+    100456: Meneaux de murs-rideaux
+    100458: Mobilier
+    100460: "Mod\xE8les g\xE9n\xE9riques"
+    100462: Monolithic Stair
+    100464: Murs
+    100466: Nature Between 2016-11-16 CN.dwg
+    100468: Nature Between 2016-11-16 CN.dwg (2)
+    100470: //RootNode
+    100472: Nature In Between SHARED Render-J.rvt
+    100474: Ossature
+    100476: Panneaux de murs-rideaux
+    100478: Portes
+    100480: pv panels roof plan17-11.dwg
+    100482: Quadrillage du mur-rideau
+    100484: Ramp long 2
+    100486: "Rampes d'acc\xE8s"
+    100488: Rectangular Mullion
+    100490: RNT_Instance
+    100492: RNT_Instance 1
+    100494: RNT_Instance 10
+    100496: RNT_Instance 100
+    100498: RNT_Instance 101
+    100500: RNT_Instance 102
+    100502: RNT_Instance 11
+    100504: RNT_Instance 12
+    100506: RNT_Instance 13
+    100508: RNT_Instance 14
+    100510: RNT_Instance 15
+    100512: RNT_Instance 16
+    100514: RNT_Instance 17
+    100516: RNT_Instance 18
+    100518: RNT_Instance 19
+    100520: RNT_Instance 2
+    100522: RNT_Instance 20
+    100524: RNT_Instance 21
+    100526: RNT_Instance 22
+    100528: RNT_Instance 23
+    100530: RNT_Instance 24
+    100532: RNT_Instance 25
+    100534: RNT_Instance 26
+    100536: RNT_Instance 27
+    100538: RNT_Instance 28
+    100540: RNT_Instance 29
+    100542: RNT_Instance 3
+    100544: RNT_Instance 30
+    100546: RNT_Instance 31
+    100548: RNT_Instance 32
+    100550: RNT_Instance 33
+    100552: RNT_Instance 34
+    100554: RNT_Instance 35
+    100556: RNT_Instance 36
+    100558: RNT_Instance 37
+    100560: RNT_Instance 38
+    100562: RNT_Instance 39
+    100564: RNT_Instance 4
+    100566: RNT_Instance 40
+    100568: RNT_Instance 41
+    100570: RNT_Instance 42
+    100572: RNT_Instance 43
+    100574: RNT_Instance 44
+    100576: RNT_Instance 45
+    100578: RNT_Instance 46
+    100580: RNT_Instance 47
+    100582: RNT_Instance 48
+    100584: RNT_Instance 49
+    100586: RNT_Instance 5
+    100588: RNT_Instance 50
+    100590: RNT_Instance 51
+    100592: RNT_Instance 52
+    100594: RNT_Instance 53
+    100596: RNT_Instance 54
+    100598: RNT_Instance 55
+    100600: RNT_Instance 56
+    100602: RNT_Instance 57
+    100604: RNT_Instance 58
+    100606: RNT_Instance 59
+    100608: RNT_Instance 6
+    100610: RNT_Instance 60
+    100612: RNT_Instance 61
+    100614: RNT_Instance 62
+    100616: RNT_Instance 63
+    100618: RNT_Instance 64
+    100620: RNT_Instance 65
+    100622: RNT_Instance 66
+    100624: RNT_Instance 67
+    100626: RNT_Instance 68
+    100628: RNT_Instance 69
+    100630: RNT_Instance 7
+    100632: RNT_Instance 70
+    100634: RNT_Instance 71
+    100636: RNT_Instance 72
+    100638: RNT_Instance 73
+    100640: RNT_Instance 74
+    100642: RNT_Instance 75
+    100644: RNT_Instance 76
+    100646: RNT_Instance 77
+    100648: RNT_Instance 78
+    100650: RNT_Instance 79
+    100652: RNT_Instance 8
+    100654: RNT_Instance 80
+    100656: RNT_Instance 81
+    100658: RNT_Instance 82
+    100660: RNT_Instance 83
+    100662: RNT_Instance 84
+    100664: RNT_Instance 85
+    100666: RNT_Instance 86
+    100668: RNT_Instance 87
+    100670: RNT_Instance 88
+    100672: RNT_Instance 89
+    100674: RNT_Instance 9
+    100676: RNT_Instance 90
+    100678: RNT_Instance 91
+    100680: RNT_Instance 92
+    100682: RNT_Instance 93
+    100684: RNT_Instance 94
+    100686: RNT_Instance 95
+    100688: RNT_Instance 96
+    100690: RNT_Instance 97
+    100692: RNT_Instance 98
+    100694: RNT_Instance 99
+    100696: Roof 2
+    100698: Sink - Work
+    100700: smallseat-1
+    100702: smallseat-1 1
+    100704: smallseat-2
+    100706: smallseat-2 1
+    100708: Sofa
+    100710: Sofa-Corbu
+    100712: Sols
+    100714: stair.dxf
+    100716: System Panel
+    100718: Table Lamp - Standard
+    100720: Table-End
+    100722: Table-Rectangular
+    100724: Toilet-Domestic-3D
+    100726: Toilet-Domestic-3D 1
+    100728: Toits
+    100730: Traverses hautes
+    100732: TV - Flat Screen
+    100734: Understructure
+    100736: Understructure1
+    100738: Vegetation
+    100740: "Verri\xE8re"
+    100742: Wood Joist 220mm - Wood Finish grass 2
+    100744: Wood Joist 220mm - Wood Finish grass 3
+    100746: Wood Joist 220mm - Wood Finish grass interior
+    100748: Wood Joist 220mm - Wood Finish platform
+    100750: Wood Joist 220mm - Wood Finish Sd 2
+    100752: Wood Joist 220mm - Wood Finish Sd water around
+    100754: Wood Joist 220mm - Wood Finish sd-water
+    100756: '{3D - archi.teamjiaplus.fr}'
+    100758: '{3D - archi.teamjiaplus.fr} 1'
+    100760: "\u4FA7\u9762\u659C\u6784\u4EF6 3"
+    100762: "\u4FA7\u9762\u659C\u6784\u4EF6 3 1"
+    100764: "\u4FA7\u9762\u659C\u6784\u4EF6 3 2"
+    100766: "\u4FA7\u9762\u659C\u6784\u4EF6 3 3"
+    100768: "\u4FA7\u9762\u659C\u6784\u4EF6 3 4"
+    100770: "\u4FA7\u9762\u659C\u6784\u4EF6 3 5"
+    100772: "\u6728\u6750"
+    100774: "\u67B6\u5B50-\u4E2D\u90E8-\u5C4B\u9876\u652F\u6491sd"
+    100776: "\u67B6\u5B50-\u4E2D\u90E8-\u5C4B\u9876\u652F\u6491sd 1"
+    100778: "\u67B6\u5B50-\u5DE6\u90E8\u540E-\u7EB5\u5411sd"
+    100780: "\u67B6\u5B50-\u5DE6\u90E8\u540E-\u7EB5\u5411sd 1"
+    100782: "\u7AF9\u5B50"
+    100784: "\u7AF9\u5B50 1"
+    100786: "\u7EC4 16"
+    100788: "\u7EC4 16 1"
+    100790: "\u7EC4 16 2"
+    100792: "\u7EC4 16 3"
+    100794: "\u7EC4 16 4"
+    100796: "\u7EC4 16 5"
+    100798: "\u7EC4 16 6"
+    100800: "\u7EC4 16 7"
+    100802: "\u7EC4 16 8"
+    100804: "\u7EC4 16 9"
+    100806: "\u9635\u5217\u7EC4 11"
+    100808: "\u9635\u5217\u7EC4 11 1"
+    100810: "\u9635\u5217\u7EC4 11 10"
+    100812: "\u9635\u5217\u7EC4 11 11"
+    100814: "\u9635\u5217\u7EC4 11 12"
+    100816: "\u9635\u5217\u7EC4 11 13"
+    100818: "\u9635\u5217\u7EC4 11 14"
+    100820: "\u9635\u5217\u7EC4 11 15"
+    100822: "\u9635\u5217\u7EC4 11 16"
+    100824: "\u9635\u5217\u7EC4 11 17"
+    100826: "\u9635\u5217\u7EC4 11 18"
+    100828: "\u9635\u5217\u7EC4 11 19"
+    100830: "\u9635\u5217\u7EC4 11 2"
+    100832: "\u9635\u5217\u7EC4 11 3"
+    100834: "\u9635\u5217\u7EC4 11 4"
+    100836: "\u9635\u5217\u7EC4 11 5"
+    100838: "\u9635\u5217\u7EC4 11 6"
+    100840: "\u9635\u5217\u7EC4 11 7"
+    100842: "\u9635\u5217\u7EC4 11 8"
+    100844: "\u9635\u5217\u7EC4 11 9"
+    100846: "\u9635\u5217\u7EC4 7"
+    100848: "\u9635\u5217\u7EC4 7 1"
+    100850: "\u9635\u5217\u7EC4 7 10"
+    100852: "\u9635\u5217\u7EC4 7 100"
+    100854: "\u9635\u5217\u7EC4 7 101"
+    100856: "\u9635\u5217\u7EC4 7 102"
+    100858: "\u9635\u5217\u7EC4 7 103"
+    100860: "\u9635\u5217\u7EC4 7 104"
+    100862: "\u9635\u5217\u7EC4 7 105"
+    100864: "\u9635\u5217\u7EC4 7 106"
+    100866: "\u9635\u5217\u7EC4 7 107"
+    100868: "\u9635\u5217\u7EC4 7 108"
+    100870: "\u9635\u5217\u7EC4 7 109"
+    100872: "\u9635\u5217\u7EC4 7 11"
+    100874: "\u9635\u5217\u7EC4 7 110"
+    100876: "\u9635\u5217\u7EC4 7 111"
+    100878: "\u9635\u5217\u7EC4 7 112"
+    100880: "\u9635\u5217\u7EC4 7 113"
+    100882: "\u9635\u5217\u7EC4 7 114"
+    100884: "\u9635\u5217\u7EC4 7 115"
+    100886: "\u9635\u5217\u7EC4 7 116"
+    100888: "\u9635\u5217\u7EC4 7 117"
+    100890: "\u9635\u5217\u7EC4 7 118"
+    100892: "\u9635\u5217\u7EC4 7 119"
+    100894: "\u9635\u5217\u7EC4 7 12"
+    100896: "\u9635\u5217\u7EC4 7 120"
+    100898: "\u9635\u5217\u7EC4 7 121"
+    100900: "\u9635\u5217\u7EC4 7 122"
+    100902: "\u9635\u5217\u7EC4 7 123"
+    100904: "\u9635\u5217\u7EC4 7 124"
+    100906: "\u9635\u5217\u7EC4 7 125"
+    100908: "\u9635\u5217\u7EC4 7 126"
+    100910: "\u9635\u5217\u7EC4 7 127"
+    100912: "\u9635\u5217\u7EC4 7 128"
+    100914: "\u9635\u5217\u7EC4 7 129"
+    100916: "\u9635\u5217\u7EC4 7 13"
+    100918: "\u9635\u5217\u7EC4 7 130"
+    100920: "\u9635\u5217\u7EC4 7 131"
+    100922: "\u9635\u5217\u7EC4 7 132"
+    100924: "\u9635\u5217\u7EC4 7 133"
+    100926: "\u9635\u5217\u7EC4 7 134"
+    100928: "\u9635\u5217\u7EC4 7 135"
+    100930: "\u9635\u5217\u7EC4 7 136"
+    100932: "\u9635\u5217\u7EC4 7 137"
+    100934: "\u9635\u5217\u7EC4 7 138"
+    100936: "\u9635\u5217\u7EC4 7 139"
+    100938: "\u9635\u5217\u7EC4 7 14"
+    100940: "\u9635\u5217\u7EC4 7 140"
+    100942: "\u9635\u5217\u7EC4 7 141"
+    100944: "\u9635\u5217\u7EC4 7 142"
+    100946: "\u9635\u5217\u7EC4 7 143"
+    100948: "\u9635\u5217\u7EC4 7 144"
+    100950: "\u9635\u5217\u7EC4 7 145"
+    100952: "\u9635\u5217\u7EC4 7 146"
+    100954: "\u9635\u5217\u7EC4 7 147"
+    100956: "\u9635\u5217\u7EC4 7 148"
+    100958: "\u9635\u5217\u7EC4 7 149"
+    100960: "\u9635\u5217\u7EC4 7 15"
+    100962: "\u9635\u5217\u7EC4 7 150"
+    100964: "\u9635\u5217\u7EC4 7 151"
+    100966: "\u9635\u5217\u7EC4 7 152"
+    100968: "\u9635\u5217\u7EC4 7 153"
+    100970: "\u9635\u5217\u7EC4 7 154"
+    100972: "\u9635\u5217\u7EC4 7 155"
+    100974: "\u9635\u5217\u7EC4 7 156"
+    100976: "\u9635\u5217\u7EC4 7 157"
+    100978: "\u9635\u5217\u7EC4 7 158"
+    100980: "\u9635\u5217\u7EC4 7 159"
+    100982: "\u9635\u5217\u7EC4 7 16"
+    100984: "\u9635\u5217\u7EC4 7 160"
+    100986: "\u9635\u5217\u7EC4 7 161"
+    100988: "\u9635\u5217\u7EC4 7 162"
+    100990: "\u9635\u5217\u7EC4 7 163"
+    100992: "\u9635\u5217\u7EC4 7 164"
+    100994: "\u9635\u5217\u7EC4 7 165"
+    100996: "\u9635\u5217\u7EC4 7 166"
+    100998: "\u9635\u5217\u7EC4 7 167"
+    101000: "\u9635\u5217\u7EC4 7 168"
+    101002: "\u9635\u5217\u7EC4 7 169"
+    101004: "\u9635\u5217\u7EC4 7 17"
+    101006: "\u9635\u5217\u7EC4 7 170"
+    101008: "\u9635\u5217\u7EC4 7 171"
+    101010: "\u9635\u5217\u7EC4 7 172"
+    101012: "\u9635\u5217\u7EC4 7 173"
+    101014: "\u9635\u5217\u7EC4 7 174"
+    101016: "\u9635\u5217\u7EC4 7 175"
+    101018: "\u9635\u5217\u7EC4 7 176"
+    101020: "\u9635\u5217\u7EC4 7 177"
+    101022: "\u9635\u5217\u7EC4 7 178"
+    101024: "\u9635\u5217\u7EC4 7 179"
+    101026: "\u9635\u5217\u7EC4 7 18"
+    101028: "\u9635\u5217\u7EC4 7 180"
+    101030: "\u9635\u5217\u7EC4 7 181"
+    101032: "\u9635\u5217\u7EC4 7 182"
+    101034: "\u9635\u5217\u7EC4 7 183"
+    101036: "\u9635\u5217\u7EC4 7 184"
+    101038: "\u9635\u5217\u7EC4 7 185"
+    101040: "\u9635\u5217\u7EC4 7 186"
+    101042: "\u9635\u5217\u7EC4 7 187"
+    101044: "\u9635\u5217\u7EC4 7 188"
+    101046: "\u9635\u5217\u7EC4 7 189"
+    101048: "\u9635\u5217\u7EC4 7 19"
+    101050: "\u9635\u5217\u7EC4 7 190"
+    101052: "\u9635\u5217\u7EC4 7 191"
+    101054: "\u9635\u5217\u7EC4 7 192"
+    101056: "\u9635\u5217\u7EC4 7 193"
+    101058: "\u9635\u5217\u7EC4 7 194"
+    101060: "\u9635\u5217\u7EC4 7 195"
+    101062: "\u9635\u5217\u7EC4 7 196"
+    101064: "\u9635\u5217\u7EC4 7 197"
+    101066: "\u9635\u5217\u7EC4 7 198"
+    101068: "\u9635\u5217\u7EC4 7 199"
+    101070: "\u9635\u5217\u7EC4 7 2"
+    101072: "\u9635\u5217\u7EC4 7 20"
+    101074: "\u9635\u5217\u7EC4 7 21"
+    101076: "\u9635\u5217\u7EC4 7 22"
+    101078: "\u9635\u5217\u7EC4 7 23"
+    101080: "\u9635\u5217\u7EC4 7 24"
+    101082: "\u9635\u5217\u7EC4 7 25"
+    101084: "\u9635\u5217\u7EC4 7 26"
+    101086: "\u9635\u5217\u7EC4 7 27"
+    101088: "\u9635\u5217\u7EC4 7 28"
+    101090: "\u9635\u5217\u7EC4 7 29"
+    101092: "\u9635\u5217\u7EC4 7 3"
+    101094: "\u9635\u5217\u7EC4 7 30"
+    101096: "\u9635\u5217\u7EC4 7 31"
+    101098: "\u9635\u5217\u7EC4 7 32"
+    101100: "\u9635\u5217\u7EC4 7 33"
+    101102: "\u9635\u5217\u7EC4 7 34"
+    101104: "\u9635\u5217\u7EC4 7 35"
+    101106: "\u9635\u5217\u7EC4 7 36"
+    101108: "\u9635\u5217\u7EC4 7 37"
+    101110: "\u9635\u5217\u7EC4 7 38"
+    101112: "\u9635\u5217\u7EC4 7 39"
+    101114: "\u9635\u5217\u7EC4 7 4"
+    101116: "\u9635\u5217\u7EC4 7 40"
+    101118: "\u9635\u5217\u7EC4 7 41"
+    101120: "\u9635\u5217\u7EC4 7 42"
+    101122: "\u9635\u5217\u7EC4 7 43"
+    101124: "\u9635\u5217\u7EC4 7 44"
+    101126: "\u9635\u5217\u7EC4 7 45"
+    101128: "\u9635\u5217\u7EC4 7 46"
+    101130: "\u9635\u5217\u7EC4 7 47"
+    101132: "\u9635\u5217\u7EC4 7 48"
+    101134: "\u9635\u5217\u7EC4 7 49"
+    101136: "\u9635\u5217\u7EC4 7 5"
+    101138: "\u9635\u5217\u7EC4 7 50"
+    101140: "\u9635\u5217\u7EC4 7 51"
+    101142: "\u9635\u5217\u7EC4 7 52"
+    101144: "\u9635\u5217\u7EC4 7 53"
+    101146: "\u9635\u5217\u7EC4 7 54"
+    101148: "\u9635\u5217\u7EC4 7 55"
+    101150: "\u9635\u5217\u7EC4 7 56"
+    101152: "\u9635\u5217\u7EC4 7 57"
+    101154: "\u9635\u5217\u7EC4 7 58"
+    101156: "\u9635\u5217\u7EC4 7 59"
+    101158: "\u9635\u5217\u7EC4 7 6"
+    101160: "\u9635\u5217\u7EC4 7 60"
+    101162: "\u9635\u5217\u7EC4 7 61"
+    101164: "\u9635\u5217\u7EC4 7 62"
+    101166: "\u9635\u5217\u7EC4 7 63"
+    101168: "\u9635\u5217\u7EC4 7 64"
+    101170: "\u9635\u5217\u7EC4 7 65"
+    101172: "\u9635\u5217\u7EC4 7 66"
+    101174: "\u9635\u5217\u7EC4 7 67"
+    101176: "\u9635\u5217\u7EC4 7 68"
+    101178: "\u9635\u5217\u7EC4 7 69"
+    101180: "\u9635\u5217\u7EC4 7 7"
+    101182: "\u9635\u5217\u7EC4 7 70"
+    101184: "\u9635\u5217\u7EC4 7 71"
+    101186: "\u9635\u5217\u7EC4 7 72"
+    101188: "\u9635\u5217\u7EC4 7 73"
+    101190: "\u9635\u5217\u7EC4 7 74"
+    101192: "\u9635\u5217\u7EC4 7 75"
+    101194: "\u9635\u5217\u7EC4 7 76"
+    101196: "\u9635\u5217\u7EC4 7 77"
+    101198: "\u9635\u5217\u7EC4 7 78"
+    101200: "\u9635\u5217\u7EC4 7 79"
+    101202: "\u9635\u5217\u7EC4 7 8"
+    101204: "\u9635\u5217\u7EC4 7 80"
+    101206: "\u9635\u5217\u7EC4 7 81"
+    101208: "\u9635\u5217\u7EC4 7 82"
+    101210: "\u9635\u5217\u7EC4 7 83"
+    101212: "\u9635\u5217\u7EC4 7 84"
+    101214: "\u9635\u5217\u7EC4 7 85"
+    101216: "\u9635\u5217\u7EC4 7 86"
+    101218: "\u9635\u5217\u7EC4 7 87"
+    101220: "\u9635\u5217\u7EC4 7 88"
+    101222: "\u9635\u5217\u7EC4 7 89"
+    101224: "\u9635\u5217\u7EC4 7 9"
+    101226: "\u9635\u5217\u7EC4 7 90"
+    101228: "\u9635\u5217\u7EC4 7 91"
+    101230: "\u9635\u5217\u7EC4 7 92"
+    101232: "\u9635\u5217\u7EC4 7 93"
+    101234: "\u9635\u5217\u7EC4 7 94"
+    101236: "\u9635\u5217\u7EC4 7 95"
+    101238: "\u9635\u5217\u7EC4 7 96"
+    101240: "\u9635\u5217\u7EC4 7 97"
+    101242: "\u9635\u5217\u7EC4 7 98"
+    101244: "\u9635\u5217\u7EC4 7 99"
+    400000: 0864 x 2134mm
+    400002: 10 mm - Stairs slab
+    400004: 1020x500
+    400006: 1060x600
+    400008: 1150x1150
+    400010: "120-10 \u767E\u53F6"
+    400012: 1200x1500mm
+    400014: 1420x700
+    400016: 180 mm - Mezzanine Slab
+    400018: 1800x300
+    400020: 20"x18"
+    400022: 2000X650
+    400024: 2000X810
+    400026: 2400X1030
+    400028: 2400X730
+    400030: 2500x1200
+    400032: 30" x 30"
+    400034: 3000x680
+    400036: 300mm Foundation Solar
+    400038: 30mm Square
+    400040: 36" x 36"
+    400042: 37"
+    400044: 496 mm - Ground Floor Slab
+    400046: 496 mm - Ground Floor Slab Earth
+    400048: 496 mm - Ground Floor Slab Gravel
+    400050: 496 mm - Ground Floor Slab Tile
+    400052: 50mm x 65mm
+    400054: 60W - 277V
+    400056: Appareils sanitaires
+    400058: bamboo
+    400060: "bamboo door(\u6062\u590D)"
+    400062: Bamboo roof 2
+    400064: Bamboo toit
+    400066: bedroom1
+    400068: bedroom1 1
+    400070: bedroom2
+    400072: bedroom2 1
+    400074: "Cam\xE9ras"
+    400076: Chair
+    400078: Chair-Corbu
+    400080: cupboard
+    400082: cupboard 1
+    400084: dining table
+    400086: dining table 1
+    400088: Door-Curtain-Wall-Double-Storefront
+    400090: Door-Curtain-Wall-Double-Storefront 1
+    400092: Elliptical - 40x30mm
+    400094: "emplacement <Non partag\xE9>"
+    400096: "emplacement <Non partag\xE9> 1"
+    400098: "emplacement <Non partag\xE9> 2"
+    400100: "emplacement <Non partag\xE9> 3"
+    400102: "emplacement <Non partag\xE9> 4"
+    400104: "emplacement <Non partag\xE9> 5"
+    400106: Empty Panel
+    400108: Empty Panel 1
+    400110: Empty Panel 10
+    400112: Empty Panel 11
+    400114: Empty Panel 12
+    400116: Empty Panel 13
+    400118: Empty Panel 14
+    400120: Empty Panel 15
+    400122: Empty Panel 16
+    400124: Empty Panel 17
+    400126: Empty Panel 18
+    400128: Empty Panel 19
+    400130: Empty Panel 2
+    400132: Empty Panel 20
+    400134: Empty Panel 21
+    400136: Empty Panel 22
+    400138: Empty Panel 23
+    400140: Empty Panel 24
+    400142: Empty Panel 25
+    400144: Empty Panel 26
+    400146: Empty Panel 27
+    400148: Empty Panel 28
+    400150: Empty Panel 29
+    400152: Empty Panel 3
+    400154: Empty Panel 30
+    400156: Empty Panel 31
+    400158: Empty Panel 32
+    400160: Empty Panel 33
+    400162: Empty Panel 34
+    400164: Empty Panel 35
+    400166: Empty Panel 36
+    400168: Empty Panel 37
+    400170: Empty Panel 38
+    400172: Empty Panel 39
+    400174: Empty Panel 4
+    400176: Empty Panel 40
+    400178: Empty Panel 41
+    400180: Empty Panel 42
+    400182: Empty Panel 43
+    400184: Empty Panel 44
+    400186: Empty Panel 45
+    400188: Empty Panel 46
+    400190: Empty Panel 47
+    400192: Empty Panel 48
+    400194: Empty Panel 49
+    400196: Empty Panel 5
+    400198: Empty Panel 50
+    400200: Empty Panel 51
+    400202: Empty Panel 52
+    400204: Empty Panel 53
+    400206: Empty Panel 54
+    400208: Empty Panel 55
+    400210: Empty Panel 56
+    400212: Empty Panel 57
+    400214: Empty Panel 58
+    400216: Empty Panel 59
+    400218: Empty Panel 6
+    400220: Empty Panel 60
+    400222: Empty Panel 61
+    400224: Empty Panel 62
+    400226: Empty Panel 63
+    400228: Empty Panel 64
+    400230: Empty Panel 65
+    400232: Empty Panel 66
+    400234: Empty Panel 67
+    400236: Empty Panel 68
+    400238: Empty Panel 69
+    400240: Empty Panel 7
+    400242: Empty Panel 70
+    400244: Empty Panel 71
+    400246: Empty Panel 72
+    400248: Empty Panel 73
+    400250: Empty Panel 74
+    400252: Empty Panel 75
+    400254: Empty Panel 76
+    400256: Empty Panel 77
+    400258: Empty Panel 78
+    400260: Empty Panel 79
+    400262: Empty Panel 8
+    400264: Empty Panel 80
+    400266: Empty Panel 81
+    400268: Empty Panel 82
+    400270: Empty Panel 83
+    400272: Empty Panel 9
+    400274: Escalier
+    400276: Exterior Mullion50mm x 150mm 2
+    400278: "Fen\xEAtres"
+    400280: flower pot
+    400282: Fondations
+    400284: Fondations 1
+    400286: Foundation
+    400288: Foundation 1
+    400290: frame-old-house.dxf
+    400292: Garde-corps
+    400294: Generic - 200mm sd old
+    400296: Generic - 477mm
+    400298: Generic Floor - 150mm platform
+    400300: Generic Roof - 300mm
+    400302: Generic Roof - 475 mm north
+    400304: Glass Panel - Bottom Fill
+    400306: Glazed
+    400308: "Groupes de mod\xE8les"
+    400310: Interior - 180mm
+    400312: Interior - 250mm
+    400314: Interior - 288mm
+    400316: Interior - 79mm Partition (1-hr)
+    400318: Ligne de quadrillage
+    400320: Ligne de quadrillage 1
+    400322: Ligne de quadrillage 10
+    400324: Ligne de quadrillage 11
+    400326: Ligne de quadrillage 12
+    400328: Ligne de quadrillage 13
+    400330: Ligne de quadrillage 14
+    400332: Ligne de quadrillage 15
+    400334: Ligne de quadrillage 16
+    400336: Ligne de quadrillage 17
+    400338: Ligne de quadrillage 18
+    400340: Ligne de quadrillage 19
+    400342: Ligne de quadrillage 2
+    400344: Ligne de quadrillage 20
+    400346: Ligne de quadrillage 21
+    400348: Ligne de quadrillage 22
+    400350: Ligne de quadrillage 23
+    400352: Ligne de quadrillage 24
+    400354: Ligne de quadrillage 25
+    400356: Ligne de quadrillage 26
+    400358: Ligne de quadrillage 27
+    400360: Ligne de quadrillage 28
+    400362: Ligne de quadrillage 29
+    400364: Ligne de quadrillage 3
+    400366: Ligne de quadrillage 30
+    400368: Ligne de quadrillage 31
+    400370: Ligne de quadrillage 32
+    400372: Ligne de quadrillage 33
+    400374: Ligne de quadrillage 34
+    400376: Ligne de quadrillage 35
+    400378: Ligne de quadrillage 36
+    400380: Ligne de quadrillage 37
+    400382: Ligne de quadrillage 38
+    400384: Ligne de quadrillage 39
+    400386: Ligne de quadrillage 4
+    400388: Ligne de quadrillage 40
+    400390: Ligne de quadrillage 41
+    400392: Ligne de quadrillage 42
+    400394: Ligne de quadrillage 43
+    400396: Ligne de quadrillage 44
+    400398: Ligne de quadrillage 45
+    400400: Ligne de quadrillage 46
+    400402: Ligne de quadrillage 47
+    400404: Ligne de quadrillage 48
+    400406: Ligne de quadrillage 49
+    400408: Ligne de quadrillage 5
+    400410: Ligne de quadrillage 50
+    400412: Ligne de quadrillage 51
+    400414: Ligne de quadrillage 52
+    400416: Ligne de quadrillage 53
+    400418: Ligne de quadrillage 54
+    400420: Ligne de quadrillage 55
+    400422: Ligne de quadrillage 56
+    400424: Ligne de quadrillage 57
+    400426: Ligne de quadrillage 58
+    400428: Ligne de quadrillage 59
+    400430: Ligne de quadrillage 6
+    400432: Ligne de quadrillage 60
+    400434: Ligne de quadrillage 61
+    400436: Ligne de quadrillage 62
+    400438: Ligne de quadrillage 63
+    400440: Ligne de quadrillage 64
+    400442: Ligne de quadrillage 65
+    400444: Ligne de quadrillage 7
+    400446: Ligne de quadrillage 8
+    400448: Ligne de quadrillage 9
+    400450: Luminaires
+    400452: M_Fixed
+    400454: M_Single-Flush
+    400456: Meneaux de murs-rideaux
+    400458: Mobilier
+    400460: "Mod\xE8les g\xE9n\xE9riques"
+    400462: Monolithic Stair
+    400464: Murs
+    400466: Nature Between 2016-11-16 CN.dwg
+    400468: Nature Between 2016-11-16 CN.dwg (2)
+    400470: //RootNode
+    400472: Nature In Between SHARED Render-J.rvt
+    400474: Ossature
+    400476: Panneaux de murs-rideaux
+    400478: Portes
+    400480: pv panels roof plan17-11.dwg
+    400482: Quadrillage du mur-rideau
+    400484: Ramp long 2
+    400486: "Rampes d'acc\xE8s"
+    400488: Rectangular Mullion
+    400490: RNT_Instance
+    400492: RNT_Instance 1
+    400494: RNT_Instance 10
+    400496: RNT_Instance 100
+    400498: RNT_Instance 101
+    400500: RNT_Instance 102
+    400502: RNT_Instance 11
+    400504: RNT_Instance 12
+    400506: RNT_Instance 13
+    400508: RNT_Instance 14
+    400510: RNT_Instance 15
+    400512: RNT_Instance 16
+    400514: RNT_Instance 17
+    400516: RNT_Instance 18
+    400518: RNT_Instance 19
+    400520: RNT_Instance 2
+    400522: RNT_Instance 20
+    400524: RNT_Instance 21
+    400526: RNT_Instance 22
+    400528: RNT_Instance 23
+    400530: RNT_Instance 24
+    400532: RNT_Instance 25
+    400534: RNT_Instance 26
+    400536: RNT_Instance 27
+    400538: RNT_Instance 28
+    400540: RNT_Instance 29
+    400542: RNT_Instance 3
+    400544: RNT_Instance 30
+    400546: RNT_Instance 31
+    400548: RNT_Instance 32
+    400550: RNT_Instance 33
+    400552: RNT_Instance 34
+    400554: RNT_Instance 35
+    400556: RNT_Instance 36
+    400558: RNT_Instance 37
+    400560: RNT_Instance 38
+    400562: RNT_Instance 39
+    400564: RNT_Instance 4
+    400566: RNT_Instance 40
+    400568: RNT_Instance 41
+    400570: RNT_Instance 42
+    400572: RNT_Instance 43
+    400574: RNT_Instance 44
+    400576: RNT_Instance 45
+    400578: RNT_Instance 46
+    400580: RNT_Instance 47
+    400582: RNT_Instance 48
+    400584: RNT_Instance 49
+    400586: RNT_Instance 5
+    400588: RNT_Instance 50
+    400590: RNT_Instance 51
+    400592: RNT_Instance 52
+    400594: RNT_Instance 53
+    400596: RNT_Instance 54
+    400598: RNT_Instance 55
+    400600: RNT_Instance 56
+    400602: RNT_Instance 57
+    400604: RNT_Instance 58
+    400606: RNT_Instance 59
+    400608: RNT_Instance 6
+    400610: RNT_Instance 60
+    400612: RNT_Instance 61
+    400614: RNT_Instance 62
+    400616: RNT_Instance 63
+    400618: RNT_Instance 64
+    400620: RNT_Instance 65
+    400622: RNT_Instance 66
+    400624: RNT_Instance 67
+    400626: RNT_Instance 68
+    400628: RNT_Instance 69
+    400630: RNT_Instance 7
+    400632: RNT_Instance 70
+    400634: RNT_Instance 71
+    400636: RNT_Instance 72
+    400638: RNT_Instance 73
+    400640: RNT_Instance 74
+    400642: RNT_Instance 75
+    400644: RNT_Instance 76
+    400646: RNT_Instance 77
+    400648: RNT_Instance 78
+    400650: RNT_Instance 79
+    400652: RNT_Instance 8
+    400654: RNT_Instance 80
+    400656: RNT_Instance 81
+    400658: RNT_Instance 82
+    400660: RNT_Instance 83
+    400662: RNT_Instance 84
+    400664: RNT_Instance 85
+    400666: RNT_Instance 86
+    400668: RNT_Instance 87
+    400670: RNT_Instance 88
+    400672: RNT_Instance 89
+    400674: RNT_Instance 9
+    400676: RNT_Instance 90
+    400678: RNT_Instance 91
+    400680: RNT_Instance 92
+    400682: RNT_Instance 93
+    400684: RNT_Instance 94
+    400686: RNT_Instance 95
+    400688: RNT_Instance 96
+    400690: RNT_Instance 97
+    400692: RNT_Instance 98
+    400694: RNT_Instance 99
+    400696: Roof 2
+    400698: Sink - Work
+    400700: smallseat-1
+    400702: smallseat-1 1
+    400704: smallseat-2
+    400706: smallseat-2 1
+    400708: Sofa
+    400710: Sofa-Corbu
+    400712: Sols
+    400714: stair.dxf
+    400716: System Panel
+    400718: Table Lamp - Standard
+    400720: Table-End
+    400722: Table-Rectangular
+    400724: Toilet-Domestic-3D
+    400726: Toilet-Domestic-3D 1
+    400728: Toits
+    400730: Traverses hautes
+    400732: TV - Flat Screen
+    400734: Understructure
+    400736: Understructure1
+    400738: Vegetation
+    400740: "Verri\xE8re"
+    400742: Wood Joist 220mm - Wood Finish grass 2
+    400744: Wood Joist 220mm - Wood Finish grass 3
+    400746: Wood Joist 220mm - Wood Finish grass interior
+    400748: Wood Joist 220mm - Wood Finish platform
+    400750: Wood Joist 220mm - Wood Finish Sd 2
+    400752: Wood Joist 220mm - Wood Finish Sd water around
+    400754: Wood Joist 220mm - Wood Finish sd-water
+    400756: '{3D - archi.teamjiaplus.fr}'
+    400758: '{3D - archi.teamjiaplus.fr} 1'
+    400760: "\u4FA7\u9762\u659C\u6784\u4EF6 3"
+    400762: "\u4FA7\u9762\u659C\u6784\u4EF6 3 1"
+    400764: "\u4FA7\u9762\u659C\u6784\u4EF6 3 2"
+    400766: "\u4FA7\u9762\u659C\u6784\u4EF6 3 3"
+    400768: "\u4FA7\u9762\u659C\u6784\u4EF6 3 4"
+    400770: "\u4FA7\u9762\u659C\u6784\u4EF6 3 5"
+    400772: "\u6728\u6750"
+    400774: "\u67B6\u5B50-\u4E2D\u90E8-\u5C4B\u9876\u652F\u6491sd"
+    400776: "\u67B6\u5B50-\u4E2D\u90E8-\u5C4B\u9876\u652F\u6491sd 1"
+    400778: "\u67B6\u5B50-\u5DE6\u90E8\u540E-\u7EB5\u5411sd"
+    400780: "\u67B6\u5B50-\u5DE6\u90E8\u540E-\u7EB5\u5411sd 1"
+    400782: "\u7AF9\u5B50"
+    400784: "\u7AF9\u5B50 1"
+    400786: "\u7EC4 16"
+    400788: "\u7EC4 16 1"
+    400790: "\u7EC4 16 2"
+    400792: "\u7EC4 16 3"
+    400794: "\u7EC4 16 4"
+    400796: "\u7EC4 16 5"
+    400798: "\u7EC4 16 6"
+    400800: "\u7EC4 16 7"
+    400802: "\u7EC4 16 8"
+    400804: "\u7EC4 16 9"
+    400806: "\u9635\u5217\u7EC4 11"
+    400808: "\u9635\u5217\u7EC4 11 1"
+    400810: "\u9635\u5217\u7EC4 11 10"
+    400812: "\u9635\u5217\u7EC4 11 11"
+    400814: "\u9635\u5217\u7EC4 11 12"
+    400816: "\u9635\u5217\u7EC4 11 13"
+    400818: "\u9635\u5217\u7EC4 11 14"
+    400820: "\u9635\u5217\u7EC4 11 15"
+    400822: "\u9635\u5217\u7EC4 11 16"
+    400824: "\u9635\u5217\u7EC4 11 17"
+    400826: "\u9635\u5217\u7EC4 11 18"
+    400828: "\u9635\u5217\u7EC4 11 19"
+    400830: "\u9635\u5217\u7EC4 11 2"
+    400832: "\u9635\u5217\u7EC4 11 3"
+    400834: "\u9635\u5217\u7EC4 11 4"
+    400836: "\u9635\u5217\u7EC4 11 5"
+    400838: "\u9635\u5217\u7EC4 11 6"
+    400840: "\u9635\u5217\u7EC4 11 7"
+    400842: "\u9635\u5217\u7EC4 11 8"
+    400844: "\u9635\u5217\u7EC4 11 9"
+    400846: "\u9635\u5217\u7EC4 7"
+    400848: "\u9635\u5217\u7EC4 7 1"
+    400850: "\u9635\u5217\u7EC4 7 10"
+    400852: "\u9635\u5217\u7EC4 7 100"
+    400854: "\u9635\u5217\u7EC4 7 101"
+    400856: "\u9635\u5217\u7EC4 7 102"
+    400858: "\u9635\u5217\u7EC4 7 103"
+    400860: "\u9635\u5217\u7EC4 7 104"
+    400862: "\u9635\u5217\u7EC4 7 105"
+    400864: "\u9635\u5217\u7EC4 7 106"
+    400866: "\u9635\u5217\u7EC4 7 107"
+    400868: "\u9635\u5217\u7EC4 7 108"
+    400870: "\u9635\u5217\u7EC4 7 109"
+    400872: "\u9635\u5217\u7EC4 7 11"
+    400874: "\u9635\u5217\u7EC4 7 110"
+    400876: "\u9635\u5217\u7EC4 7 111"
+    400878: "\u9635\u5217\u7EC4 7 112"
+    400880: "\u9635\u5217\u7EC4 7 113"
+    400882: "\u9635\u5217\u7EC4 7 114"
+    400884: "\u9635\u5217\u7EC4 7 115"
+    400886: "\u9635\u5217\u7EC4 7 116"
+    400888: "\u9635\u5217\u7EC4 7 117"
+    400890: "\u9635\u5217\u7EC4 7 118"
+    400892: "\u9635\u5217\u7EC4 7 119"
+    400894: "\u9635\u5217\u7EC4 7 12"
+    400896: "\u9635\u5217\u7EC4 7 120"
+    400898: "\u9635\u5217\u7EC4 7 121"
+    400900: "\u9635\u5217\u7EC4 7 122"
+    400902: "\u9635\u5217\u7EC4 7 123"
+    400904: "\u9635\u5217\u7EC4 7 124"
+    400906: "\u9635\u5217\u7EC4 7 125"
+    400908: "\u9635\u5217\u7EC4 7 126"
+    400910: "\u9635\u5217\u7EC4 7 127"
+    400912: "\u9635\u5217\u7EC4 7 128"
+    400914: "\u9635\u5217\u7EC4 7 129"
+    400916: "\u9635\u5217\u7EC4 7 13"
+    400918: "\u9635\u5217\u7EC4 7 130"
+    400920: "\u9635\u5217\u7EC4 7 131"
+    400922: "\u9635\u5217\u7EC4 7 132"
+    400924: "\u9635\u5217\u7EC4 7 133"
+    400926: "\u9635\u5217\u7EC4 7 134"
+    400928: "\u9635\u5217\u7EC4 7 135"
+    400930: "\u9635\u5217\u7EC4 7 136"
+    400932: "\u9635\u5217\u7EC4 7 137"
+    400934: "\u9635\u5217\u7EC4 7 138"
+    400936: "\u9635\u5217\u7EC4 7 139"
+    400938: "\u9635\u5217\u7EC4 7 14"
+    400940: "\u9635\u5217\u7EC4 7 140"
+    400942: "\u9635\u5217\u7EC4 7 141"
+    400944: "\u9635\u5217\u7EC4 7 142"
+    400946: "\u9635\u5217\u7EC4 7 143"
+    400948: "\u9635\u5217\u7EC4 7 144"
+    400950: "\u9635\u5217\u7EC4 7 145"
+    400952: "\u9635\u5217\u7EC4 7 146"
+    400954: "\u9635\u5217\u7EC4 7 147"
+    400956: "\u9635\u5217\u7EC4 7 148"
+    400958: "\u9635\u5217\u7EC4 7 149"
+    400960: "\u9635\u5217\u7EC4 7 15"
+    400962: "\u9635\u5217\u7EC4 7 150"
+    400964: "\u9635\u5217\u7EC4 7 151"
+    400966: "\u9635\u5217\u7EC4 7 152"
+    400968: "\u9635\u5217\u7EC4 7 153"
+    400970: "\u9635\u5217\u7EC4 7 154"
+    400972: "\u9635\u5217\u7EC4 7 155"
+    400974: "\u9635\u5217\u7EC4 7 156"
+    400976: "\u9635\u5217\u7EC4 7 157"
+    400978: "\u9635\u5217\u7EC4 7 158"
+    400980: "\u9635\u5217\u7EC4 7 159"
+    400982: "\u9635\u5217\u7EC4 7 16"
+    400984: "\u9635\u5217\u7EC4 7 160"
+    400986: "\u9635\u5217\u7EC4 7 161"
+    400988: "\u9635\u5217\u7EC4 7 162"
+    400990: "\u9635\u5217\u7EC4 7 163"
+    400992: "\u9635\u5217\u7EC4 7 164"
+    400994: "\u9635\u5217\u7EC4 7 165"
+    400996: "\u9635\u5217\u7EC4 7 166"
+    400998: "\u9635\u5217\u7EC4 7 167"
+    401000: "\u9635\u5217\u7EC4 7 168"
+    401002: "\u9635\u5217\u7EC4 7 169"
+    401004: "\u9635\u5217\u7EC4 7 17"
+    401006: "\u9635\u5217\u7EC4 7 170"
+    401008: "\u9635\u5217\u7EC4 7 171"
+    401010: "\u9635\u5217\u7EC4 7 172"
+    401012: "\u9635\u5217\u7EC4 7 173"
+    401014: "\u9635\u5217\u7EC4 7 174"
+    401016: "\u9635\u5217\u7EC4 7 175"
+    401018: "\u9635\u5217\u7EC4 7 176"
+    401020: "\u9635\u5217\u7EC4 7 177"
+    401022: "\u9635\u5217\u7EC4 7 178"
+    401024: "\u9635\u5217\u7EC4 7 179"
+    401026: "\u9635\u5217\u7EC4 7 18"
+    401028: "\u9635\u5217\u7EC4 7 180"
+    401030: "\u9635\u5217\u7EC4 7 181"
+    401032: "\u9635\u5217\u7EC4 7 182"
+    401034: "\u9635\u5217\u7EC4 7 183"
+    401036: "\u9635\u5217\u7EC4 7 184"
+    401038: "\u9635\u5217\u7EC4 7 185"
+    401040: "\u9635\u5217\u7EC4 7 186"
+    401042: "\u9635\u5217\u7EC4 7 187"
+    401044: "\u9635\u5217\u7EC4 7 188"
+    401046: "\u9635\u5217\u7EC4 7 189"
+    401048: "\u9635\u5217\u7EC4 7 19"
+    401050: "\u9635\u5217\u7EC4 7 190"
+    401052: "\u9635\u5217\u7EC4 7 191"
+    401054: "\u9635\u5217\u7EC4 7 192"
+    401056: "\u9635\u5217\u7EC4 7 193"
+    401058: "\u9635\u5217\u7EC4 7 194"
+    401060: "\u9635\u5217\u7EC4 7 195"
+    401062: "\u9635\u5217\u7EC4 7 196"
+    401064: "\u9635\u5217\u7EC4 7 197"
+    401066: "\u9635\u5217\u7EC4 7 198"
+    401068: "\u9635\u5217\u7EC4 7 199"
+    401070: "\u9635\u5217\u7EC4 7 2"
+    401072: "\u9635\u5217\u7EC4 7 20"
+    401074: "\u9635\u5217\u7EC4 7 21"
+    401076: "\u9635\u5217\u7EC4 7 22"
+    401078: "\u9635\u5217\u7EC4 7 23"
+    401080: "\u9635\u5217\u7EC4 7 24"
+    401082: "\u9635\u5217\u7EC4 7 25"
+    401084: "\u9635\u5217\u7EC4 7 26"
+    401086: "\u9635\u5217\u7EC4 7 27"
+    401088: "\u9635\u5217\u7EC4 7 28"
+    401090: "\u9635\u5217\u7EC4 7 29"
+    401092: "\u9635\u5217\u7EC4 7 3"
+    401094: "\u9635\u5217\u7EC4 7 30"
+    401096: "\u9635\u5217\u7EC4 7 31"
+    401098: "\u9635\u5217\u7EC4 7 32"
+    401100: "\u9635\u5217\u7EC4 7 33"
+    401102: "\u9635\u5217\u7EC4 7 34"
+    401104: "\u9635\u5217\u7EC4 7 35"
+    401106: "\u9635\u5217\u7EC4 7 36"
+    401108: "\u9635\u5217\u7EC4 7 37"
+    401110: "\u9635\u5217\u7EC4 7 38"
+    401112: "\u9635\u5217\u7EC4 7 39"
+    401114: "\u9635\u5217\u7EC4 7 4"
+    401116: "\u9635\u5217\u7EC4 7 40"
+    401118: "\u9635\u5217\u7EC4 7 41"
+    401120: "\u9635\u5217\u7EC4 7 42"
+    401122: "\u9635\u5217\u7EC4 7 43"
+    401124: "\u9635\u5217\u7EC4 7 44"
+    401126: "\u9635\u5217\u7EC4 7 45"
+    401128: "\u9635\u5217\u7EC4 7 46"
+    401130: "\u9635\u5217\u7EC4 7 47"
+    401132: "\u9635\u5217\u7EC4 7 48"
+    401134: "\u9635\u5217\u7EC4 7 49"
+    401136: "\u9635\u5217\u7EC4 7 5"
+    401138: "\u9635\u5217\u7EC4 7 50"
+    401140: "\u9635\u5217\u7EC4 7 51"
+    401142: "\u9635\u5217\u7EC4 7 52"
+    401144: "\u9635\u5217\u7EC4 7 53"
+    401146: "\u9635\u5217\u7EC4 7 54"
+    401148: "\u9635\u5217\u7EC4 7 55"
+    401150: "\u9635\u5217\u7EC4 7 56"
+    401152: "\u9635\u5217\u7EC4 7 57"
+    401154: "\u9635\u5217\u7EC4 7 58"
+    401156: "\u9635\u5217\u7EC4 7 59"
+    401158: "\u9635\u5217\u7EC4 7 6"
+    401160: "\u9635\u5217\u7EC4 7 60"
+    401162: "\u9635\u5217\u7EC4 7 61"
+    401164: "\u9635\u5217\u7EC4 7 62"
+    401166: "\u9635\u5217\u7EC4 7 63"
+    401168: "\u9635\u5217\u7EC4 7 64"
+    401170: "\u9635\u5217\u7EC4 7 65"
+    401172: "\u9635\u5217\u7EC4 7 66"
+    401174: "\u9635\u5217\u7EC4 7 67"
+    401176: "\u9635\u5217\u7EC4 7 68"
+    401178: "\u9635\u5217\u7EC4 7 69"
+    401180: "\u9635\u5217\u7EC4 7 7"
+    401182: "\u9635\u5217\u7EC4 7 70"
+    401184: "\u9635\u5217\u7EC4 7 71"
+    401186: "\u9635\u5217\u7EC4 7 72"
+    401188: "\u9635\u5217\u7EC4 7 73"
+    401190: "\u9635\u5217\u7EC4 7 74"
+    401192: "\u9635\u5217\u7EC4 7 75"
+    401194: "\u9635\u5217\u7EC4 7 76"
+    401196: "\u9635\u5217\u7EC4 7 77"
+    401198: "\u9635\u5217\u7EC4 7 78"
+    401200: "\u9635\u5217\u7EC4 7 79"
+    401202: "\u9635\u5217\u7EC4 7 8"
+    401204: "\u9635\u5217\u7EC4 7 80"
+    401206: "\u9635\u5217\u7EC4 7 81"
+    401208: "\u9635\u5217\u7EC4 7 82"
+    401210: "\u9635\u5217\u7EC4 7 83"
+    401212: "\u9635\u5217\u7EC4 7 84"
+    401214: "\u9635\u5217\u7EC4 7 85"
+    401216: "\u9635\u5217\u7EC4 7 86"
+    401218: "\u9635\u5217\u7EC4 7 87"
+    401220: "\u9635\u5217\u7EC4 7 88"
+    401222: "\u9635\u5217\u7EC4 7 89"
+    401224: "\u9635\u5217\u7EC4 7 9"
+    401226: "\u9635\u5217\u7EC4 7 90"
+    401228: "\u9635\u5217\u7EC4 7 91"
+    401230: "\u9635\u5217\u7EC4 7 92"
+    401232: "\u9635\u5217\u7EC4 7 93"
+    401234: "\u9635\u5217\u7EC4 7 94"
+    401236: "\u9635\u5217\u7EC4 7 95"
+    401238: "\u9635\u5217\u7EC4 7 96"
+    401240: "\u9635\u5217\u7EC4 7 97"
+    401242: "\u9635\u5217\u7EC4 7 98"
+    401244: "\u9635\u5217\u7EC4 7 99"
+    2300000: 0864 x 2134mm
+    2300002: 10 mm - Stairs slab
+    2300004: 1020x500
+    2300006: 1060x600
+    2300008: 1150x1150
+    2300010: "120-10 \u767E\u53F6"
+    2300012: 1200x1500mm
+    2300014: 1420x700
+    2300016: 180 mm - Mezzanine Slab
+    2300018: 1800x300
+    2300020: 20"x18"
+    2300022: 2000X650
+    2300024: 2000X810
+    2300026: 2400X1030
+    2300028: 2400X730
+    2300030: 2500x1200
+    2300032: 30" x 30"
+    2300034: 3000x680
+    2300036: 300mm Foundation Solar
+    2300038: 30mm Square
+    2300040: 36" x 36"
+    2300042: 37"
+    2300044: 496 mm - Ground Floor Slab
+    2300046: 496 mm - Ground Floor Slab Earth
+    2300048: 496 mm - Ground Floor Slab Gravel
+    2300050: 496 mm - Ground Floor Slab Tile
+    2300052: 50mm x 65mm
+    2300054: 60W - 277V
+    2300056: bedroom1 1
+    2300058: bedroom2 1
+    2300060: Chair
+    2300062: cupboard 1
+    2300064: dining table 1
+    2300066: Door-Curtain-Wall-Double-Storefront 1
+    2300068: Elliptical - 40x30mm
+    2300070: "emplacement <Non partag\xE9>"
+    2300072: "emplacement <Non partag\xE9> 1"
+    2300074: "emplacement <Non partag\xE9> 2"
+    2300076: "emplacement <Non partag\xE9> 5"
+    2300078: Exterior Mullion50mm x 150mm 2
+    2300080: flower pot
+    2300082: Foundation 1
+    2300084: Generic - 200mm sd old
+    2300086: Generic - 477mm
+    2300088: Generic Floor - 150mm platform
+    2300090: Generic Roof - 300mm
+    2300092: Generic Roof - 475 mm north
+    2300094: Glass Panel - Bottom Fill
+    2300096: Glazed
+    2300098: Interior - 180mm
+    2300100: Interior - 250mm
+    2300102: Interior - 288mm
+    2300104: Interior - 79mm Partition (1-hr)
+    2300106: Monolithic Stair
+    2300108: Ramp long 2
+    2300110: Roof 2
+    2300112: smallseat-1 1
+    2300114: smallseat-2 1
+    2300116: Sofa
+    2300118: Toilet-Domestic-3D 1
+    2300120: Understructure
+    2300122: Wood Joist 220mm - Wood Finish grass 2
+    2300124: Wood Joist 220mm - Wood Finish grass 3
+    2300126: Wood Joist 220mm - Wood Finish grass interior
+    2300128: Wood Joist 220mm - Wood Finish platform
+    2300130: Wood Joist 220mm - Wood Finish Sd 2
+    2300132: Wood Joist 220mm - Wood Finish Sd water around
+    2300134: Wood Joist 220mm - Wood Finish sd-water
+    2300136: "\u67B6\u5B50-\u4E2D\u90E8-\u5C4B\u9876\u652F\u6491sd 1"
+    2300138: "\u67B6\u5B50-\u5DE6\u90E8\u540E-\u7EB5\u5411sd 1"
+    2300140: "\u7AF9\u5B50 1"
+    3300000: 0864 x 2134mm
+    3300002: 10 mm - Stairs slab
+    3300004: 1020x500
+    3300006: 1060x600
+    3300008: 1150x1150
+    3300010: "120-10 \u767E\u53F6"
+    3300012: 1200x1500mm
+    3300014: 1420x700
+    3300016: 180 mm - Mezzanine Slab
+    3300018: 1800x300
+    3300020: 20"x18"
+    3300022: 2000X650
+    3300024: 2000X810
+    3300026: 2400X1030
+    3300028: 2400X730
+    3300030: 2500x1200
+    3300032: 30" x 30"
+    3300034: 3000x680
+    3300036: 300mm Foundation Solar
+    3300038: 30mm Square
+    3300040: 36" x 36"
+    3300042: 37"
+    3300044: 496 mm - Ground Floor Slab
+    3300046: 496 mm - Ground Floor Slab Earth
+    3300048: 496 mm - Ground Floor Slab Gravel
+    3300050: 496 mm - Ground Floor Slab Tile
+    3300052: 50mm x 65mm
+    3300054: 60W - 277V
+    3300056: bedroom1 1
+    3300058: bedroom2 1
+    3300060: Chair
+    3300062: cupboard 1
+    3300064: dining table 1
+    3300066: Door-Curtain-Wall-Double-Storefront 1
+    3300068: Elliptical - 40x30mm
+    3300070: "emplacement <Non partag\xE9>"
+    3300072: "emplacement <Non partag\xE9> 1"
+    3300074: "emplacement <Non partag\xE9> 2"
+    3300076: "emplacement <Non partag\xE9> 5"
+    3300078: Exterior Mullion50mm x 150mm 2
+    3300080: flower pot
+    3300082: Foundation 1
+    3300084: Generic - 200mm sd old
+    3300086: Generic - 477mm
+    3300088: Generic Floor - 150mm platform
+    3300090: Generic Roof - 300mm
+    3300092: Generic Roof - 475 mm north
+    3300094: Glass Panel - Bottom Fill
+    3300096: Glazed
+    3300098: Interior - 180mm
+    3300100: Interior - 250mm
+    3300102: Interior - 288mm
+    3300104: Interior - 79mm Partition (1-hr)
+    3300106: Monolithic Stair
+    3300108: Ramp long 2
+    3300110: Roof 2
+    3300112: smallseat-1 1
+    3300114: smallseat-2 1
+    3300116: Sofa
+    3300118: Toilet-Domestic-3D 1
+    3300120: Understructure
+    3300122: Wood Joist 220mm - Wood Finish grass 2
+    3300124: Wood Joist 220mm - Wood Finish grass 3
+    3300126: Wood Joist 220mm - Wood Finish grass interior
+    3300128: Wood Joist 220mm - Wood Finish platform
+    3300130: Wood Joist 220mm - Wood Finish Sd 2
+    3300132: Wood Joist 220mm - Wood Finish Sd water around
+    3300134: Wood Joist 220mm - Wood Finish sd-water
+    3300136: "\u67B6\u5B50-\u4E2D\u90E8-\u5C4B\u9876\u652F\u6491sd 1"
+    3300138: "\u67B6\u5B50-\u5DE6\u90E8\u540E-\u7EB5\u5411sd 1"
+    3300140: "\u7AF9\u5B50 1"
+    4300000: Generic - 477mm
+    4300002: Interior - 180mm
+    4300004: Interior - 79mm Partition (1-hr)
+    4300006: Interior - 250mm
+    4300008: Interior - 288mm
+    4300010: Generic - 200mm sd old
+    4300012: Glazed
+    4300014: Door-Curtain-Wall-Double-Storefront
+    4300016: 0864 x 2134mm
+    4300018: 30mm Square
+    4300020: Exterior Mullion50mm x 150mm 2
+    4300022: 50mm x 65mm
+    4300024: 180 mm - Mezzanine Slab
+    4300026: 10 mm - Stairs slab
+    4300028: flower pot
+    4300030: 496 mm - Ground Floor Slab
+    4300032: 496 mm - Ground Floor Slab Earth
+    4300034: 496 mm - Ground Floor Slab Gravel
+    4300036: 496 mm - Ground Floor Slab Tile
+    4300038: 300mm Foundation Solar
+    4300040: Generic Roof - 300mm
+    4300042: Generic Roof - 475 mm north
+    4300044: Roof 2
+    4300046: 1200x1500mm
+    4300048: "emplacement <Non partag\xE9>"
+    4300050: bedroom1
+    4300052: bedroom2
+    4300054: dining table
+    4300056: cupboard
+    4300058: Sofa
+    4300060: 30" x 30"
+    4300062: Chair
+    4300064: 36" x 36"
+    4300066: 37"
+    4300068: smallseat-2
+    4300070: smallseat-1
+    4300072: Toilet-Domestic-3D
+    4300074: 20"x18"
+    4300076: 60W - 277V
+    4300078: Understructure
+    4300080: 3000x680
+    4300082: 2400X1030
+    4300084: 1150x1150
+    4300086: 1060x600
+    4300088: 1800x300
+    4300090: 1420x700
+    4300092: 1020x500
+    4300094: 2500x1200
+    4300096: "\u67B6\u5B50-\u4E2D\u90E8-\u5C4B\u9876\u652F\u6491sd"
+    4300098: "\u67B6\u5B50-\u5DE6\u90E8\u540E-\u7EB5\u5411sd"
+    4300100: 2000X810
+    4300102: 2000X650
+    4300104: 2400X730
+    4300106: "emplacement <Non partag\xE9>"
+    4300108: Foundation
+    4300110: Wood Joist 220mm - Wood Finish Sd 2
+    4300112: Wood Joist 220mm - Wood Finish grass 2
+    4300114: Wood Joist 220mm - Wood Finish grass interior
+    4300116: Wood Joist 220mm - Wood Finish platform
+    4300118: Wood Joist 220mm - Wood Finish sd-water
+    4300120: Wood Joist 220mm - Wood Finish Sd water around
+    4300122: Generic Floor - 150mm platform
+    4300124: Wood Joist 220mm - Wood Finish grass 3
+    4300126: Ramp long 2
+    4300128: "emplacement <Non partag\xE9>"
+    4300130: Monolithic Stair
+    4300132: Glass Panel - Bottom Fill
+    4300134: Elliptical - 40x30mm
+    4300136: "emplacement <Non partag\xE9>"
+    4300138: "120-10 \u767E\u53F6"
+    4300140: "\u7AF9\u5B50"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
