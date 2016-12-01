@@ -1861,54 +1861,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
---- !u!1 &1554314938
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
-  m_Component:
-  - 4: {fileID: 1554314940}
-  - 220: {fileID: 1554314939}
-  m_Layer: 0
-  m_Name: Light Probe Group
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!220 &1554314939
-LightProbeGroup:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1554314938}
-  m_Enabled: 1
-  m_SourcePositions:
-  - {x: 0.61683166, y: 0.37689352, z: 1}
-  - {x: 1, y: 1, z: -1}
-  - {x: -0.14298034, y: -0.58798075, z: 1}
-  - {x: 1, y: -1, z: -0.92497265}
-  - {x: -0.47384608, y: -0.14899254, z: 1}
-  - {x: -1, y: 1, z: -1}
-  - {x: -0.6648508, y: -1, z: 1}
-  - {x: -0.57636, y: -1, z: -1}
-  - {x: -0.29203743, y: -0.56431234, z: -0.8259542}
-  - {x: 1, y: -1.2111969, z: 1}
-  - {x: 0.8663256, y: -0.58798075, z: 1}
---- !u!4 &1554314940
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1554314938}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.286, y: 0.283, z: 2.2013624}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
 --- !u!1 &1563018892
 GameObject:
   m_ObjectHideFlags: 0
