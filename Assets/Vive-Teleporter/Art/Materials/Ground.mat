@@ -115,7 +115,7 @@ Material:
     m_Colors:
     - first:
         name: _BackColor
-      second: {r: 1, g: 1, b: 1, a: 0.184}
+      second: {r: 0.7681661, g: 0.90513265, b: 0.9411765, a: 0.184}
     - first:
         name: _Color
       second: {r: 0.5363322, g: 0.8340889, b: 0.9117647, a: 0.791}
