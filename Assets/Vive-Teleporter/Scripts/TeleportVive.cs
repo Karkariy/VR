@@ -178,7 +178,7 @@ public class TeleportVive : MonoBehaviour {
             // Poll controller for pertinent button data
             int index = (int)ActiveController.index;
             var device = SteamVR_Controller.Input(index);
-            bool shouldTeleport = device.GetPressUp(SteamVR_Controller.ButtonMask.Touchpad);
+            bool shouldTeleport = device.GetPressUp(SteamVR_Controller.ButtonMask.Trigger);
             bool shouldCancel = device.GetPressUp(SteamVR_Controller.ButtonMask.Grip);
             if (shouldTeleport || shouldCancel)
             {
@@ -234,7 +234,7 @@ public class TeleportVive : MonoBehaviour {
                     continue;
 
                 var device = SteamVR_Controller.Input(index);
-                if (device.GetPressDown(SteamVR_Controller.ButtonMask.Touchpad))
+                if (device.GetPressDown(SteamVR_Controller.ButtonMask.Trigger))
                 {
                     // Set active controller to this controller, and enable the parabolic pointer and visual indicators
                     // that the user can use to determine where they are able to teleport.
