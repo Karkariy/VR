@@ -37,7 +37,7 @@ public class Switch : MonoBehaviour {
             if(bLightActive)
                 lightVar.GetComponent<Light>().intensity = 0.0f;
             else
-                lightVar.GetComponent<Light>().intensity = 1.0f;
+                lightVar.GetComponent<Light>().intensity = 0.5f;
     }
 
     private void HighLightSwitch()
