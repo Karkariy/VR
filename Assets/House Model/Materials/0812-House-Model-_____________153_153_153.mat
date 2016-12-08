@@ -8,8 +8,8 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: 0812-House-Model-_____________153_153_153
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
+  m_ShaderKeywords: _EMISSION
+  m_LightmapFlags: 1
   m_CustomRenderQueue: -1
   stringTagMap: {}
   m_SavedProperties:
@@ -83,6 +83,9 @@ Material:
         name: _DstBlend
       second: 0
     - first:
+        name: _Fade
+      second: 0.5
+    - first:
         name: _GlossMapScale
       second: 1
     - first:
@@ -93,7 +96,7 @@ Material:
       second: 1
     - first:
         name: _Metallic
-      second: 0
+      second: 1
     - first:
         name: _Mode
       second: 0
@@ -121,7 +124,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.6, g: 0.6, b: 0.6, a: 1}
+      second: {r: 1, g: 0.866, b: 0, a: 1}
     - first:
         name: _EmissionColor
       second: {r: 0, g: 0, b: 0, a: 1}
