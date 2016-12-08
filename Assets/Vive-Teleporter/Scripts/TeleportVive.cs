@@ -178,8 +178,8 @@ public class TeleportVive : MonoBehaviour {
             // Poll controller for pertinent button data
             int index = (int)ActiveController.index;
             var device = SteamVR_Controller.Input(index);
-            bool shouldTeleport = device.GetPressUp(SteamVR_Controller.ButtonMask.Trigger);
-            bool shouldCancel = device.GetPressUp(SteamVR_Controller.ButtonMask.Grip);
+            bool shouldTeleport = device.GetPressDown(SteamVR_Controller.ButtonMask.Trigger);
+            bool shouldCancel = device.GetPressDown(SteamVR_Controller.ButtonMask.Grip);
             if (shouldTeleport || shouldCancel)
             {
                 // If the user has decided to teleport (ie lets go of touchpad) then remove all visual indicators
