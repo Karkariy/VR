@@ -8,26 +8,29 @@ public class Switch : MonoBehaviour {
     private bool bMouseDown;
     private bool bLightActive;
 
-	// Use this for initialization
-	void Start () {
+
+
+
+    // Use this for initialization
+    void Start () {
         bMouseDown = true;
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        pointerTarget = pointer.SelectedPoint;
-        if (Input.GetMouseButtonUp(0))
-            bMouseDown = true;
-        if (Vector3.Distance(pointerTarget, transform.position) < .15)
-        {
-            HighLightSwitch();
-            if (Input.GetMouseButton(0) && bMouseDown)
-                SwitchLight();
+        //pointerTarget = pointer.SelectedPoint;
+        //if (Input.GetMouseButtonUp(0))
+        //    bMouseDown = true;
+        //if (Vector3.Distance(pointerTarget, transform.position) < .15)
+        //{
+        //    HighLightSwitch();
+        //    if (Input.GetMouseButton(0) && bMouseDown)
+        //        SwitchLight();
 
-        }
+        //}
     }
 
-    private void SwitchLight()
+    public void SwitchLight()
     {
         bMouseDown = false;
         bLightActive = !bLightActive;
@@ -43,6 +46,13 @@ public class Switch : MonoBehaviour {
     private void HighLightSwitch()
     {
 
+    }
+
+
+    void OnTriggerEnter(Collider collider)
+    {
+        if (ReferenceEquals(pointer, collider))
+            SwitchLight();
     }
 
 }

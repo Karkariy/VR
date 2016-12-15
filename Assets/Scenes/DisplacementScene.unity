@@ -400,16 +400,16 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 114649218157763446, guid: 0e67a4b1165395442bab600d30fd4bcb,
-        type: 2}
-      propertyPath: NavMesh
-      value: 
-      objectReference: {fileID: 433555898}
     - target: {fileID: 114485117405889490, guid: 0e67a4b1165395442bab600d30fd4bcb,
         type: 2}
       propertyPath: NavmeshAnimator
       value: 
       objectReference: {fileID: 884487844}
+    - target: {fileID: 114649218157763446, guid: 0e67a4b1165395442bab600d30fd4bcb,
+        type: 2}
+      propertyPath: NavMesh
+      value: 
+      objectReference: {fileID: 433555898}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0e67a4b1165395442bab600d30fd4bcb, type: 2}
   m_IsPrefabParent: 0
